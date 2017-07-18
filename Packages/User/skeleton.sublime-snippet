@@ -1,0 +1,29 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+#include <bits/stdc++.h>
+
+#define lli long long int
+#define pb push_back
+#define pii pair <int, int>
+#define pll pair <lli, lli>
+#define _F first
+#define _S second
+#define mset(x) memset(x, 0, sizeof(x))
+#define fastio() ios_base::sync_with_stdio(0)
+
+using namespace std;
+
+int main()
+{
+	$0
+	
+	return (0-0);	
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>skeleton</tabTrigger>
+  <description></description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c++, meta.function.c++, meta.block.c++</scope>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+/*
+ID: nikhil14
+PROG: ${1}
+LANG: C++11
+*/
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+	freopen("${1}.in","r",stdin);
+	freopen("${1}.out","w",stdout);
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>usaco</tabTrigger>
+  <description>USACO Skeleton CPP</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c++, comment.block.c, punctuation.definition.comment.c</scope>
+</snippet>

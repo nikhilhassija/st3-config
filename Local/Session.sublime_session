@@ -1,0 +1,4581 @@
+{
+	"folder_history":
+	[
+		"/home/nikhil/Desktop/Quiz/mt17150_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17149_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17148_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17147_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17146_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17145_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17144_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17141_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17128_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17126_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17125_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17123_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17121_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17120_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17118_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17117_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17115_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17112_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17109_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17107_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17105_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17104_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17103_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17102_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17101_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17099_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17094_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17088_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17087_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17085_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17084_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17083_Quiz14",
+		"/home/nikhil/Desktop/Quiz/17098_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17081_Quiz14",
+		"/home/nikhil/Desktop/Quiz/mt17149_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17146_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17143_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17121_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17120_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17115_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17112_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17107_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17102_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17091_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17087_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17082_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/mt17081_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/Quiz/2017355_Softcopysubmissionforquizon7",
+		"/home/nikhil/Desktop/addjud",
+		"/home/nikhil/Desktop/acmgtga",
+		"/home/nikhil/Desktop/prosort49editorials",
+		"/home/nikhil/Desktop/MTR17",
+		"/home/nikhil/Desktop/EMS",
+		"/home/nikhil/Desktop/taro/EMS/.git",
+		"/home/nikhil/Desktop/bteproject",
+		"/home/nikhil/Desktop/BTE-Project",
+		"/home/nikhil/Desktop/DSA",
+		"/home/nikhil/Desktop/django_polls_auth",
+		"/home/nikhil/Desktop/rest/proj/app",
+		"/home/nikhil/Desktop/taro/EMS",
+		"/home/nikhil/Desktop/FREE",
+		"/home/nikhil/Desktop/ffs",
+		"/home/nikhil/Desktop/eyeNode",
+		"/home/nikhil/Desktop/2015029_2015065_PseudoFileSys",
+		"/home/nikhil/Desktop/ADA",
+		"/etc/systemd/user",
+		"/etc/systemd/system",
+		"/etc/systemd/network",
+		"/home/nikhil/Desktop/jQuery/light/full",
+		"/home/nikhil/Desktop/demo",
+		"/home/nikhil/Desktop/frontend/template",
+		"/home/nikhil/Desktop/scripts",
+		"/home/nikhil/Desktop/NA",
+		"/home/nikhil/Desktop/test/testproject",
+		"/home/nikhil/Desktop/local/phd",
+		"/home/nikhil/Desktop/bptree",
+		"/home/nikhil/zulip",
+		"/home/nikhil/Desktop/2015065",
+		"/home/nikhil/Desktop/OS",
+		"/home/nikhil/Desktop/new-admissions-portal",
+		"/home/nikhil/Desktop/Portal/admissionportal",
+		"/home/nikhil/Desktop/Portal",
+		"/home/nikhil/Desktop/DBMS",
+		"/home/nikhil/Desktop/PhDPortal/admissionportal",
+		"/home/nikhil/Desktop/Lab1",
+		"/home/nikhil/Desktop/AC"
+	],
+	"last_version": 3126,
+	"last_window_id": 279,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"MAX_N"
+					],
+					[
+						"clock",
+						"clock_t"
+					],
+					[
+						"tree_",
+						"tree_query"
+					],
+					[
+						"s",
+						"skeleton\tskeleton"
+					],
+					[
+						"mind",
+						"min_index"
+					],
+					[
+						"min",
+						"min_index"
+					],
+					[
+						"c",
+						"class\tclass-..-(class)"
+					],
+					[
+						"me",
+						"median"
+					],
+					[
+						"mean",
+						"MEDIAN"
+					],
+					[
+						"b_",
+						"b_query"
+					],
+					[
+						"b",
+						"birdsitup"
+					],
+					[
+						"add",
+						"addacorn"
+					],
+					[
+						"h",
+						"hopcroftKarp"
+					],
+					[
+						"ma",
+						"MAX_N"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"next",
+						"next_r"
+					],
+					[
+						"go",
+						"goR"
+					],
+					[
+						"swap",
+						"swapLR"
+					],
+					[
+						"max",
+						"max_suf"
+					],
+					[
+						"max_",
+						"max_suf"
+					],
+					[
+						"mx",
+						"max_pre"
+					],
+					[
+						"mxa",
+						"max_sum"
+					],
+					[
+						"get",
+						"GetMaxFlow"
+					],
+					[
+						"Add",
+						"AddEdge"
+					],
+					[
+						"Po",
+						"PointInPolygon"
+					],
+					[
+						"up",
+						"upper_bound"
+					],
+					[
+						"pr",
+						"price_sort"
+					],
+					[
+						"has",
+						"has_pos"
+					],
+					[
+						"is_",
+						"is_neg"
+					],
+					[
+						"has_",
+						"has_neg"
+					],
+					[
+						"trie",
+						"trie_node"
+					],
+					[
+						"tr",
+						"trie_node"
+					],
+					[
+						"node",
+						"node_init"
+					],
+					[
+						"x",
+						"X"
+					],
+					[
+						"cat",
+						"cat_m"
+					],
+					[
+						"Ma",
+						"MAX_N"
+					],
+					[
+						"prit",
+						"priority_queue"
+					],
+					[
+						"chidl",
+						"child_best"
+					],
+					[
+						"chi",
+						"child_best"
+					],
+					[
+						"ch",
+						"child_best"
+					],
+					[
+						"p",
+						"pyplot"
+					],
+					[
+						"n",
+						"n_neighbors"
+					],
+					[
+						"n_",
+						"n_components"
+					],
+					[
+						"div",
+						"div2"
+					],
+					[
+						"i_t",
+						"i_train"
+					],
+					[
+						"t",
+						"train_set"
+					],
+					[
+						"dis",
+						"distance_list"
+					],
+					[
+						"distane",
+						"distance_list"
+					],
+					[
+						"dist",
+						"distance_list"
+					],
+					[
+						"fo",
+						"font"
+					],
+					[
+						"try",
+						"try\tTry/Except"
+					],
+					[
+						"under",
+						"undergrad_info"
+					],
+					[
+						"ap",
+						"append"
+					],
+					[
+						"e",
+						"enrollment_number"
+					],
+					[
+						"app",
+						"applicant"
+					],
+					[
+						"fra",
+						"frame_string"
+					],
+					[
+						"pre",
+						"preamble_String"
+					],
+					[
+						"display1",
+						"display1Left"
+					],
+					[
+						"N",
+						"NC2"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"a",
+						"added"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"subjc",
+						"subjects"
+					],
+					[
+						"subject",
+						"subject_topic"
+					],
+					[
+						"subec",
+						"subject_topic"
+					],
+					[
+						"bat",
+						"batch_alltopics"
+					],
+					[
+						"subj",
+						"subject_topic"
+					],
+					[
+						"ba",
+						"batch_subjects"
+					],
+					[
+						"sh",
+						"shiftthis"
+					],
+					[
+						"slo",
+						"slotGroupOld"
+					],
+					[
+						"time",
+						"timedelta"
+					],
+					[
+						"lec",
+						"lectureTime"
+					],
+					[
+						"sce",
+						"schedule"
+					],
+					[
+						"new",
+						"new_event"
+					],
+					[
+						"at",
+						"attendee"
+					],
+					[
+						"D",
+						"DateField"
+					],
+					[
+						"mo",
+						"modal_link"
+					],
+					[
+						"logi",
+						"login_required"
+					],
+					[
+						"tim",
+						"timeStampIn"
+					],
+					[
+						"alre",
+						"alert"
+					],
+					[
+						"da",
+						"data_json"
+					],
+					[
+						"data",
+						"dataType"
+					],
+					[
+						"slot",
+						"slotGroupOld"
+					],
+					[
+						"Glo",
+						"GLog"
+					],
+					[
+						"w",
+						"writer"
+					],
+					[
+						"use",
+						"uset"
+					],
+					[
+						"qu",
+						"quantity_change"
+					],
+					[
+						"date",
+						"daterange"
+					],
+					[
+						"l_",
+						"l_tag"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"q",
+						"quantity_change"
+					],
+					[
+						"is",
+						"is_authenticated"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"err",
+						"err_mes"
+					],
+					[
+						"mde",
+						"medicine_id"
+					],
+					[
+						"for",
+						"format"
+					],
+					[
+						"er",
+						"err_mes"
+					],
+					[
+						"qa",
+						"quantity"
+					],
+					[
+						"medi",
+						"medicine"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"Htt",
+						"HttpResponseRedirect"
+					],
+					[
+						"med",
+						"medicine_id"
+					],
+					[
+						"medicine",
+						"medicine_id"
+					],
+					[
+						"qua",
+						"quantity_change"
+					],
+					[
+						"pub",
+						"pub_date"
+					],
+					[
+						"nd",
+						"MyNodeId"
+					],
+					[
+						"pri",
+						"print"
+					],
+					[
+						"roo",
+						"root1"
+					],
+					[
+						"root",
+						"root2"
+					],
+					[
+						"visit",
+						"visitscc"
+					],
+					[
+						"prin",
+						"printq"
+					],
+					[
+						"print",
+						"print_graph"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++11.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++11.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"IO"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"IO"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run with IO"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Markdown Preview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Markdown Preview/Markdown.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"snippetes ",
+						"SnippetMaker: Edit Snippet"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"close ",
+						"Project: Close"
+					],
+					[
+						"clos ",
+						"Project: Close"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"proj clo",
+						"Project: Close"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"pytho",
+						"Set Syntax: Python"
+					],
+					[
+						"late",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"proj close",
+						"Project: Close"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"close",
+						"Project: Close"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"clo",
+						"Project: Close"
+					],
+					[
+						"cl",
+						"Project: Close"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"p close",
+						"Project: Close"
+					],
+					[
+						"clsoe",
+						"Project: Close"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"x++",
+						"Set Syntax: C++"
+					],
+					[
+						"snippermake",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"snip make",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"pack insal",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"pythn",
+						"Set Syntax: Python"
+					],
+					[
+						"clos",
+						"Project: Close"
+					],
+					[
+						"make",
+						"SnippetMaker: Edit Snippet"
+					],
+					[
+						"color",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"colorsc",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"skeel",
+						"Snippet: skeleton"
+					],
+					[
+						"snippetma",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Enumeration"
+					],
+					[
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"hox",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"h",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"snipper",
+						"Snippet: Vector For Loop"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"toglle",
+						"SolarizedToggle: Toggle"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"fodler",
+						"Remove All Folders"
+					],
+					[
+						"cancel ",
+						"Build: Cancel"
+					],
+					[
+						"package create",
+						"Package Control: Create Package File"
+					],
+					[
+						"create pack",
+						"Package Control: Create Package File"
+					],
+					[
+						"encodi",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"remove f",
+						"Remove All Folders"
+					],
+					[
+						"pyth",
+						"Set Syntax: Python"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"bas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"pro",
+						"Project: Close"
+					],
+					[
+						"PROJECT",
+						"Project: Close"
+					],
+					[
+						"open ",
+						"Terminal: Open"
+					],
+					[
+						"snippet ",
+						"Snippet: For Loop"
+					],
+					[
+						"snippet",
+						"Snippet: Function"
+					],
+					[
+						"snippe",
+						"Snippet: Function"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"spel",
+						"Google Spell Check"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"sdi",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"multi",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"pakc",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdown pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"latex",
+						"LaTeXTools: View package documentation"
+					]
+				],
+				"width": 437.0
+			},
+			"console":
+			{
+				"height": 133.0,
+				"history":
+				[
+					"import vintage_numbers_tests; vintage_numbers_tests.run()",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/nikhil/CP/CodeForces/100722/B.py",
+				"/home/nikhil/CP/CodeForces/100722/C.cpp",
+				"/home/nikhil/CP/CodeForces/100722/F.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.py",
+				"/home/nikhil/CP/CodeForces/466/out",
+				"/home/nikhil/CP/CodeForces/466/in",
+				"/home/nikhil/CP/CodeForces/466/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/out",
+				"/home/nikhil/CP/CodeForces/831/in",
+				"/home/nikhil/CP/CodeForces/831/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/E.cpp",
+				"/home/nikhil/CP/CodeForces/831/B.cpp",
+				"/home/nikhil/CP/CodeForces/831/A.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/TWOCOINS.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/in",
+				"/home/nikhil/CP/CodeChef/JUNE17/PRMQ.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/out",
+				"/home/nikhil/.bashrc",
+				"/home/nikhil/.config/sublime-text-3/Packages/User/skeleton.sublime-snippet",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.py",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/PSHTTR.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/gen.py",
+				"/home/nikhil/CP/CodeForces/828/out",
+				"/home/nikhil/CP/CodeForces/828/in",
+				"/home/nikhil/CP/CodeForces/828/D.cpp",
+				"/home/nikhil/CP/CodeForces/828/A.cpp",
+				"/home/nikhil/CP/CodeForces/828/C.cpp",
+				"/home/nikhil/CP/CodeForces/828/B.cpp",
+				"/home/nikhil/.config/sublime-text-3/Packages/C++/C++ Single File.sublime-build",
+				"/home/nikhil/CP/CodeForces/489/C.cpp",
+				"/home/nikhil/CP/.build/C.cpp",
+				"/home/nikhil/CP/CodeForces/389/B.cpp",
+				"/home/nikhil/CP/CodeForces/373/A.py",
+				"/home/nikhil/CP/CodeForces/384/A.cpp",
+				"/home/nikhil/CP/CodeForces/384/A.py",
+				"/home/nikhil/CP/CodeForces/69/A.cpp",
+				"/home/nikhil/CP/CodeForces/443/A.py",
+				"/home/nikhil/CP/CodeForces/443/A.cpp",
+				"/home/nikhil/Downloads/C.cpp",
+				"/home/nikhil/Downloads/p552.t1.P1.run769264.team5463.out",
+				"/home/nikhil/Downloads/p552.t1.in",
+				"/home/nikhil/CP/CodeChef/JULY17/out.stack",
+				"/usr/include/c++/5/bits/unordered_map.h",
+				"/home/nikhil/Desktop/gen.py",
+				"/home/nikhil/CP/SPOJ/HORRIBLE.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.py",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/IPCTRAIN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CALC.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/NITIKA.py",
+				"/home/nikhil/Desktop/abc.py",
+				"/home/nikhil/CP/.build/abc",
+				"/home/nikhil/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/nikhil/Desktop/test.py",
+				"/home/nikhil/Desktop/test.cpp",
+				"/home/nikhil/CP/.gitignore",
+				"/home/nikhil/CP/.build/test.cpp",
+				"/home/nikhil/CP/CodeForces/822/in",
+				"/home/nikhil/CP/CodeForces/822/out",
+				"/home/nikhil/CP/CodeForces/822/A.py",
+				"/home/nikhil/CP/CodeForces/822/D.cpp",
+				"/home/nikhil/CP/CodeForces/822/C.cpp",
+				"/home/nikhil/CP/CodeForces/822/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/out",
+				"/home/nikhil/CP/FCP/CP1_17PB/in",
+				"/home/nikhil/Desktop/abc/test.py",
+				"/home/nikhil/Downloads/p104.t1.in",
+				"/home/nikhil/CP/FCP/CP1_17PB/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/out",
+				"/home/nikhil/CP/CodeForces/818/in",
+				"/home/nikhil/CP/CodeForces/818/B.cpp",
+				"/home/nikhil/CP/CodeForces/818/D.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.pp",
+				"/home/nikhil/CP/CodeForces/818/A.cpp",
+				"/home/nikhil/.ssh/config",
+				"/home/nikhil/Downloads/p685.t2.in",
+				"/home/nikhil/CP/CodeForces/812/C.cpp",
+				"/home/nikhil/Desktop/DSA/Lab7/sol.cpp",
+				"/home/nikhil/Desktop/segtree.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/F.cpp",
+				"/home/nikhil/CP/CodeChef/JULY16/WORKCHEF.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/D.cpp",
+				"/home/nikhil/CP/FCP/CP2_C1/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB",
+				"/home/nikhil/CP/CodeForces/820/out",
+				"/home/nikhil/CP/CodeForces/820/in",
+				"/home/nikhil/CP/CodeForces/820/C.py",
+				"/home/nikhil/Downloads/p680.t20.in",
+				"/home/nikhil/CP/CodeForces/820/B.cpp",
+				"/home/nikhil/CP/CodeForces/820/A.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/brute.py",
+				"/home/nikhil/.cache/.fr-l48Cly/c.cpp",
+				"/home/nikhil/.cache/.fr-Yy9gNl/17KSC.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/in",
+				"/home/nikhil/Downloads/C-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/brute.py",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/out.old",
+				"/home/nikhil/Downloads/C-small-attempt1.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/main.cpp",
+				"/home/nikhil/Downloads/B-small-attempt1.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/main.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/brute.py",
+				"/home/nikhil/Downloads/B-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/main.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/in",
+				"/home/nikhil/Downloads/A-large (1).in",
+				"/home/nikhil/Downloads/A-large.in",
+				"/home/nikhil/Downloads/A-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/ut",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/in",
+				"/home/nikhil/CP/CodeForces/821/out",
+				"/home/nikhil/CP/CodeForces/821/in",
+				"/home/nikhil/CP/CodeForces/821/A.cpp",
+				"/home/nikhil/CP/CodeForces/821/C.cpp",
+				"/home/nikhil/CP/CodeForces/821/B.cpp",
+				"/home/nikhil/CP/FCP/CP2_C2/out",
+				"/home/nikhil/CP/FCP/CP2_C2/in"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cout ",
+					"find",
+					"query",
+					"M.",
+					"&T, ",
+					"int",
+					",",
+					")]",
+					"code(",
+					"hash(",
+					"Q[i",
+					",",
+					"==",
+					"== '#'",
+					"cerr",
+					"update(",
+					"query",
+					"/;\",",
+					"n",
+					"A[",
+					"auto",
+					"ebceabazcd",
+					"int",
+					"-",
+					" ",
+					"+=",
+					") - ",
+					"upper_bound",
+					"cout",
+					"A[",
+					"A",
+					"L",
+					"#",
+					"MEDIAN",
+					"two == (c",
+					"insert(",
+					"endl",
+					"count",
+					"print",
+					"cout",
+					"1 -i",
+					"++",
+					"count",
+					"node ",
+					"print(",
+					"pii",
+					"105",
+					"}",
+					"39",
+					"S[i",
+					"i",
+					"lc",
+					"int",
+					"to_integral",
+					"newb",
+					"new",
+					"/",
+					"//",
+					"2.718",
+					"to_integral",
+					"int",
+					"#cp",
+					"/ two",
+					"ans",
+					"mul",
+					"Decimal",
+					"ti",
+					"to_integral",
+					"to_integral_exact",
+					".to_integral()",
+					"rounding=ROUND_FLOOR",
+					"two",
+					"mul",
+					"ans",
+					"decimal.",
+					"ROUND_FLOOR",
+					"to_integral()",
+					"to_integral",
+					"int",
+					"A[",
+					"3 *",
+					"digits",
+					" ",
+					" 10",
+					"0 1",
+					" ",
+					"966",
+					"96609",
+					"284590",
+					"28459",
+					"2845",
+					"2818",
+					"718",
+					"return",
+					"|S|",
+					"$\\item",
+					":} ",
+					"\\end{itemize}",
+					"\\begin{itemize}",
+					":",
+					" \\\\",
+					"c",
+					"l",
+					"cout",
+					"lc",
+					";\n",
+					"void test",
+					"x",
+					"S[i]",
+					"S[",
+					"S(",
+					"A",
+					"u",
+					"int check",
+					"(f == n-1)",
+					"3 ",
+					"{",
+					"B[i]",
+					"npde",
+					"lli",
+					"Tm",
+					"T[",
+					"if(",
+					"if(S",
+					"//",
+					"if(S",
+					"if(",
+					"'#';"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"sublime-text",
+					"",
+					"}, \n",
+					", \n",
+					"0",
+					"\\",
+					",",
+					"newLecture",
+					"<=",
+					"==",
+					" !=",
+					" = ",
+					"],\n",
+					" ",
+					"|3|",
+					"|2|",
+					"|1|",
+					"|0|",
+					"|1|",
+					"1",
+					"|0|",
+					"|",
+					"0",
+					"1",
+					"0",
+					"",
+					"relationship but",
+					" | ",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"1",
+					"0",
+					"",
+					"1",
+					"0",
+					" ",
+					"\\t",
+					"3 ",
+					"2 ",
+					"1 ",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"'B'",
+					"q[",
+					"sublime_text.desktop",
+					"sublime-text.desktop"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 112.0
+			},
+			"output.latextools":
+			{
+				"height": 98.0
+			},
+			"output.markdown":
+			{
+				"height": 100.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"prmq.cpp",
+						"CodeChef/JUNE17/PRMQ.cpp"
+					],
+					[
+						"codecjul17phs",
+						"CodeChef/JULY17/PSHTTR.cpp"
+					],
+					[
+						"spojh",
+						"SPOJ/HORRIBLE.cpp"
+					],
+					[
+						"ccjl17py",
+						"CodeChef/JULY17/EXPTREE.py"
+					],
+					[
+						"codecjul17ipc",
+						"CodeChef/JULY17/IPCTRAIN.cpp"
+					],
+					[
+						"ccj17prm",
+						"CodeChef/JUNE17/PRMQ.cpp"
+					],
+					[
+						"cf787",
+						"CodeForces/787/A.cpp"
+					],
+					[
+						"cf811",
+						"CodeForces/811/A.cpp"
+					],
+					[
+						"ccsnkpa1",
+						"CodeChef/SNCKPA17/TEAMFORM.cpp"
+					],
+					[
+						"fcpale",
+						"FCP/ALIEN.cpp"
+					],
+					[
+						"ccm17sw.cpp",
+						"CodeChef/MAY17/SANDWICH.cpp"
+					],
+					[
+						"ccmgpdcpp",
+						"CodeChef/MAY17/GPD.cpp"
+					],
+					[
+						"ccm17gpd",
+						"CodeChef/MAY17/GPD"
+					],
+					[
+						"may17/suba",
+						"CodeChef/MAY17/CHEFSUBA.cpp"
+					],
+					[
+						"main",
+						"Google/CodeJam 2017/Round 1C/main"
+					],
+					[
+						"gco17qrb",
+						"Google/CodeJam 2017/Qualification Round/B/main.cpp"
+					],
+					[
+						"758dc",
+						"CodeForces/758/D.cpp"
+					],
+					[
+						"758c",
+						"CodeForces/758/C.cpp"
+					],
+					[
+						"c.p",
+						"CodeForces/735/C.py"
+					],
+					[
+						"c.",
+						"CodeForces/556/C.cpp"
+					],
+					[
+						"usa20sehoomaicpp",
+						"USACO/2016-2017/Second Contest/Hoof, Paper, Scissors/main.cpp"
+					],
+					[
+						"faceround1movingmain",
+						"Facebook/Facebook Hacker Cup 2017/Round 1/Manic Moving/main.cpp"
+					],
+					[
+						"tour",
+						"CodeChef/JAN17/TOURISTS.cpp"
+					],
+					[
+						"laz",
+						"Facebook/Facebook Hacker Cup 2017/Qualification Round/Lazy Loading/Lazy Loading.cpp"
+					],
+					[
+						"fcp/unio",
+						"FCP/UNIONLL.c"
+					],
+					[
+						"xorfi",
+						"FCP/XOR_FIB.c"
+					],
+					[
+						"corfi",
+						"CodeChef/COOK66/FRUITS.cpp"
+					],
+					[
+						"a.cpp",
+						"CodeForces/112/A.cpp"
+					],
+					[
+						"681",
+						"CodeForces/681/C.cpp"
+					],
+					[
+						"385a.cpp",
+						"CodeForces/385/A.cpp"
+					],
+					[
+						"b",
+						"B.cpp"
+					],
+					[
+						"add",
+						"myapp/templates/add.html"
+					],
+					[
+						"set",
+						"smahc/settings.py"
+					],
+					[
+						"view",
+						"myapp/views.py"
+					],
+					[
+						"urls",
+						"myapp/urls.py"
+					],
+					[
+						"index",
+						"myapp/templates/index.html"
+					],
+					[
+						"model",
+						"myapp/models.py"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"wo",
+						"CodeChef/JULY16/WORKCHEF.cpp"
+					],
+					[
+						"jul16sg",
+						"CodeChef/JULY16/CHSGMNTS.cpp"
+					],
+					[
+						"jul16sgm",
+						"CodeChef/JULY16/CHSGMNTS"
+					],
+					[
+						"chefs",
+						"CodeChef/MAY16/CHEFSOC2.cpp"
+					],
+					[
+						"chs",
+						"CodeChef/JULY16/CHSGMNTS.cpp"
+					],
+					[
+						"lecschedadmin",
+						"lectureSchedule/admin.py"
+					],
+					[
+						"stdenmode",
+						"students/models.py"
+					],
+					[
+						"top",
+						"templates/lectureSchedule/topics.html"
+					],
+					[
+						"scedjs",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"lecshmodels",
+						"lectureSchedule/models.py"
+					],
+					[
+						"sched",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"lecscemodel",
+						"lectureSchedule/models.py"
+					],
+					[
+						"models",
+						"workallocation/models.py"
+					],
+					[
+						"lecschedurls",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"base",
+						"templates/base.html"
+					],
+					[
+						"bathce",
+						"templates/students/batches.html"
+					],
+					[
+						"lecschedviews",
+						"lectureSchedule/views.py"
+					],
+					[
+						"work",
+						"templates/vmcPortal/adminHomeWorkReport.html"
+					],
+					[
+						"schedulecss",
+						"static/dist/css/schedule2.css"
+					],
+					[
+						"basejs",
+						"static/dist/js/base.js"
+					],
+					[
+						"lecview",
+						"lectureSchedule/views.py"
+					],
+					[
+						"vmcurls",
+						"vmcPortal/urls.py"
+					],
+					[
+						"leciew",
+						"lectureSchedule/views.py"
+					],
+					[
+						"schjs",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"lecsview",
+						"lectureSchedule/views.py"
+					],
+					[
+						"schede",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"vmcurl",
+						"vmcPortal/urls.py"
+					],
+					[
+						"schedview",
+						"lectureSchedule/views.py"
+					],
+					[
+						"schedjs",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"myjs",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"settin",
+						"vmcPortal/settings.py"
+					],
+					[
+						"calen",
+						"vmcPortal/calender.py"
+					],
+					[
+						"vmcpoviews",
+						"vmcPortal/views.py"
+					],
+					[
+						"lecviews",
+						"lectureSchedule/views.py"
+					],
+					[
+						"taks",
+						"teacher/tasks.py"
+					],
+					[
+						"ma",
+						"manage.py"
+					],
+					[
+						"teamode",
+						"teacher/models.py"
+					],
+					[
+						"lecs",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"lecmode",
+						"lectureSchedule/models.py"
+					],
+					[
+						"lec",
+						"lectureSchedule/views.py"
+					],
+					[
+						"cale",
+						"vmcPortal/calender.py"
+					],
+					[
+						"tasks",
+						"teacher/tasks.py"
+					],
+					[
+						"taska",
+						"templates/workAllocation/addwork.html"
+					],
+					[
+						"studentmodels",
+						"students/models.py"
+					],
+					[
+						"schedmodel",
+						"lectureSchedule/models.py"
+					],
+					[
+						"sched2.",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"sche",
+						"templates/lectureSchedule/schedules.html"
+					],
+					[
+						"shced",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"workrep",
+						"templates/vmcPortal/adminHomeWorkReport.html"
+					],
+					[
+						"teachmodel",
+						"teacher/models.py"
+					],
+					[
+						"timestamp",
+						"templates/vmcPortal/userTimeStampsFromTo.html"
+					],
+					[
+						"all",
+						"templates/vmcPortal/allLectures.html"
+					],
+					[
+						"month",
+						"templates/vmcPortal/monthlyUserStatus.html"
+					],
+					[
+						"gazhtm",
+						"templates/vmcPortal/gazettedHolidays.html"
+					],
+					[
+						"vmcview",
+						"vmcPortal/views.py"
+					],
+					[
+						"my",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"vmcviews",
+						"vmcPortal/views.py"
+					],
+					[
+						"dail",
+						"templates/vmcPortal/dailyUserStatus.html"
+					],
+					[
+						"mys",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"leavepointsrecordsmonthyear",
+						"templates/vmcPortal/leavePointsRecordsMonthYear.html"
+					],
+					[
+						"bae",
+						"templates/base.html"
+					],
+					[
+						"admin",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"adminhomete",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"teamview",
+						"team/views.py"
+					],
+					[
+						"bas",
+						"templates/base.html"
+					],
+					[
+						"teachmod",
+						"teacher/models.py"
+					],
+					[
+						"lecmodesl",
+						"lectureSchedule/models.py"
+					],
+					[
+						"recent",
+						"templates/lectureSchedule/groupRecentLecture.html"
+					],
+					[
+						"lecsceurl",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"vi",
+						"vmcPortal/views.py"
+					],
+					[
+						"slotsta",
+						"templates/lectureSchedule/slotStatus.html"
+					],
+					[
+						"lecurls",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"lecvie",
+						"lectureSchedule/views.py"
+					],
+					[
+						"teacmodel",
+						"teacher/models.py"
+					],
+					[
+						"tas",
+						"teacher/tasks.py"
+					],
+					[
+						"req",
+						"requirements.txt"
+					],
+					[
+						"task",
+						"teacher/tasks.py"
+					],
+					[
+						"work/mo",
+						"workallocation/models.py"
+					],
+					[
+						"sett",
+						"vmcPortal/settings.py"
+					],
+					[
+						"teacehr",
+						"templates/teacher/teacher.html"
+					],
+					[
+						"views",
+						"vmcPortal/views.py"
+					],
+					[
+						"setting",
+						"vmcPortal/settings.py"
+					],
+					[
+						"mode",
+						"team/models.py"
+					],
+					[
+						"teacher/model",
+						"teacher/models.py"
+					],
+					[
+						"se",
+						"smahc/settings.py"
+					],
+					[
+						"inve",
+						"myapp/templates/inventory.html"
+					],
+					[
+						"inde",
+						"myapp/templates/index.html"
+					],
+					[
+						"mdoe",
+						"myapp/models.py"
+					],
+					[
+						"style",
+						"staticfiles/myapp/css/style.css"
+					],
+					[
+						"s",
+						"smahc/settings.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ems",
+						"~/.sublime-projects/EMS.sublime-project"
+					],
+					[
+						"das",
+						"~/.sublime-projects/DSA.sublime-project"
+					],
+					[
+						"",
+						"~/.sublime-projects/DSA.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 339.0,
+				"last_filter": "merge",
+				"selected_items":
+				[
+					[
+						"merge",
+						"merge"
+					],
+					[
+						"fits",
+						"fits"
+					],
+					[
+						"trie_in",
+						"trie_insert"
+					],
+					[
+						"tire",
+						"trie_insert"
+					],
+					[
+						"insert",
+						"insert"
+					],
+					[
+						"inser",
+						"insert"
+					],
+					[
+						"trie",
+						"trie_find"
+					],
+					[
+						"mod",
+						"powmod"
+					],
+					[
+						"",
+						"root"
+					],
+					[
+						"xor",
+						"maxxor"
+					]
+				],
+				"width": 374.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 206.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"MAX_N"
+					],
+					[
+						"clock",
+						"clock_t"
+					],
+					[
+						"tree_",
+						"tree_query"
+					],
+					[
+						"s",
+						"skeleton\tskeleton"
+					],
+					[
+						"mind",
+						"min_index"
+					],
+					[
+						"min",
+						"min_index"
+					],
+					[
+						"c",
+						"class\tclass-..-(class)"
+					],
+					[
+						"me",
+						"median"
+					],
+					[
+						"mean",
+						"MEDIAN"
+					],
+					[
+						"b_",
+						"b_query"
+					],
+					[
+						"b",
+						"birdsitup"
+					],
+					[
+						"add",
+						"addacorn"
+					],
+					[
+						"h",
+						"hopcroftKarp"
+					],
+					[
+						"ma",
+						"MAX_N"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"next",
+						"next_r"
+					],
+					[
+						"go",
+						"goR"
+					],
+					[
+						"swap",
+						"swapLR"
+					],
+					[
+						"max",
+						"max_suf"
+					],
+					[
+						"max_",
+						"max_suf"
+					],
+					[
+						"mx",
+						"max_pre"
+					],
+					[
+						"mxa",
+						"max_sum"
+					],
+					[
+						"get",
+						"GetMaxFlow"
+					],
+					[
+						"Add",
+						"AddEdge"
+					],
+					[
+						"Po",
+						"PointInPolygon"
+					],
+					[
+						"up",
+						"upper_bound"
+					],
+					[
+						"pr",
+						"price_sort"
+					],
+					[
+						"has",
+						"has_pos"
+					],
+					[
+						"is_",
+						"is_neg"
+					],
+					[
+						"has_",
+						"has_neg"
+					],
+					[
+						"trie",
+						"trie_node"
+					],
+					[
+						"tr",
+						"trie_node"
+					],
+					[
+						"node",
+						"node_init"
+					],
+					[
+						"x",
+						"X"
+					],
+					[
+						"cat",
+						"cat_m"
+					],
+					[
+						"Ma",
+						"MAX_N"
+					],
+					[
+						"prit",
+						"priority_queue"
+					],
+					[
+						"chidl",
+						"child_best"
+					],
+					[
+						"chi",
+						"child_best"
+					],
+					[
+						"ch",
+						"child_best"
+					],
+					[
+						"p",
+						"pyplot"
+					],
+					[
+						"n",
+						"n_neighbors"
+					],
+					[
+						"n_",
+						"n_components"
+					],
+					[
+						"div",
+						"div2"
+					],
+					[
+						"i_t",
+						"i_train"
+					],
+					[
+						"t",
+						"train_set"
+					],
+					[
+						"dis",
+						"distance_list"
+					],
+					[
+						"distane",
+						"distance_list"
+					],
+					[
+						"dist",
+						"distance_list"
+					],
+					[
+						"fo",
+						"font"
+					],
+					[
+						"try",
+						"try\tTry/Except"
+					],
+					[
+						"under",
+						"undergrad_info"
+					],
+					[
+						"ap",
+						"append"
+					],
+					[
+						"e",
+						"enrollment_number"
+					],
+					[
+						"app",
+						"applicant"
+					],
+					[
+						"fra",
+						"frame_string"
+					],
+					[
+						"pre",
+						"preamble_String"
+					],
+					[
+						"display1",
+						"display1Left"
+					],
+					[
+						"N",
+						"NC2"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"a",
+						"added"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"subjc",
+						"subjects"
+					],
+					[
+						"subject",
+						"subject_topic"
+					],
+					[
+						"subec",
+						"subject_topic"
+					],
+					[
+						"bat",
+						"batch_alltopics"
+					],
+					[
+						"subj",
+						"subject_topic"
+					],
+					[
+						"ba",
+						"batch_subjects"
+					],
+					[
+						"sh",
+						"shiftthis"
+					],
+					[
+						"slo",
+						"slotGroupOld"
+					],
+					[
+						"time",
+						"timedelta"
+					],
+					[
+						"lec",
+						"lectureTime"
+					],
+					[
+						"sce",
+						"schedule"
+					],
+					[
+						"new",
+						"new_event"
+					],
+					[
+						"at",
+						"attendee"
+					],
+					[
+						"D",
+						"DateField"
+					],
+					[
+						"mo",
+						"modal_link"
+					],
+					[
+						"logi",
+						"login_required"
+					],
+					[
+						"tim",
+						"timeStampIn"
+					],
+					[
+						"alre",
+						"alert"
+					],
+					[
+						"da",
+						"data_json"
+					],
+					[
+						"data",
+						"dataType"
+					],
+					[
+						"slot",
+						"slotGroupOld"
+					],
+					[
+						"Glo",
+						"GLog"
+					],
+					[
+						"w",
+						"writer"
+					],
+					[
+						"use",
+						"uset"
+					],
+					[
+						"qu",
+						"quantity_change"
+					],
+					[
+						"date",
+						"daterange"
+					],
+					[
+						"l_",
+						"l_tag"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"q",
+						"quantity_change"
+					],
+					[
+						"is",
+						"is_authenticated"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"err",
+						"err_mes"
+					],
+					[
+						"mde",
+						"medicine_id"
+					],
+					[
+						"for",
+						"format"
+					],
+					[
+						"er",
+						"err_mes"
+					],
+					[
+						"qa",
+						"quantity"
+					],
+					[
+						"medi",
+						"medicine"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"Htt",
+						"HttpResponseRedirect"
+					],
+					[
+						"med",
+						"medicine_id"
+					],
+					[
+						"medicine",
+						"medicine_id"
+					],
+					[
+						"qua",
+						"quantity_change"
+					],
+					[
+						"pub",
+						"pub_date"
+					],
+					[
+						"nd",
+						"MyNodeId"
+					],
+					[
+						"pri",
+						"print"
+					],
+					[
+						"roo",
+						"root1"
+					],
+					[
+						"root",
+						"root2"
+					],
+					[
+						"visit",
+						"visitscc"
+					],
+					[
+						"prin",
+						"printq"
+					],
+					[
+						"print",
+						"print_graph"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/C/C Single File.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++11.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++11.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"IO"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"IO"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run with IO"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C/C Single File.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/C/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C/C Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Markdown Preview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Markdown Preview/Markdown.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"last_filter": "remove ",
+				"selected_items":
+				[
+					[
+						"remove ",
+						"Remove All Folders"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"ss c++",
+						"Set Syntax: C++"
+					],
+					[
+						"remove folde",
+						"Remove All Folders"
+					],
+					[
+						"snippetes ",
+						"SnippetMaker: Edit Snippet"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"close ",
+						"Project: Close"
+					],
+					[
+						"clos ",
+						"Project: Close"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"proj clo",
+						"Project: Close"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"pytho",
+						"Set Syntax: Python"
+					],
+					[
+						"late",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"proj close",
+						"Project: Close"
+					],
+					[
+						"close",
+						"Project: Close"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"clo",
+						"Project: Close"
+					],
+					[
+						"cl",
+						"Project: Close"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"p close",
+						"Project: Close"
+					],
+					[
+						"clsoe",
+						"Project: Close"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"x++",
+						"Set Syntax: C++"
+					],
+					[
+						"snippermake",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"snip make",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"pack insal",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"pythn",
+						"Set Syntax: Python"
+					],
+					[
+						"clos",
+						"Project: Close"
+					],
+					[
+						"make",
+						"SnippetMaker: Edit Snippet"
+					],
+					[
+						"color",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"colorsc",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"skeel",
+						"Snippet: skeleton"
+					],
+					[
+						"snippetma",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Enumeration"
+					],
+					[
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"hox",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"h",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"snipper",
+						"Snippet: Vector For Loop"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"toglle",
+						"SolarizedToggle: Toggle"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"fodler",
+						"Remove All Folders"
+					],
+					[
+						"cancel ",
+						"Build: Cancel"
+					],
+					[
+						"package create",
+						"Package Control: Create Package File"
+					],
+					[
+						"create pack",
+						"Package Control: Create Package File"
+					],
+					[
+						"encodi",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"remove f",
+						"Remove All Folders"
+					],
+					[
+						"pyth",
+						"Set Syntax: Python"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"bas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"pro",
+						"Project: Close"
+					],
+					[
+						"PROJECT",
+						"Project: Close"
+					],
+					[
+						"open ",
+						"Terminal: Open"
+					],
+					[
+						"snippet ",
+						"Snippet: For Loop"
+					],
+					[
+						"snippet",
+						"Snippet: Function"
+					],
+					[
+						"snippe",
+						"Snippet: Function"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"spel",
+						"Google Spell Check"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"sdi",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"multi",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"pakc",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdown pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"latex",
+						"LaTeXTools: View package documentation"
+					]
+				],
+				"width": 431.0
+			},
+			"console":
+			{
+				"height": 133.0,
+				"history":
+				[
+					"import vintage_numbers_tests; vintage_numbers_tests.run()",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/nikhil/Desktop/Quiz/mt17148_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17150_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17102_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17101_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17099_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17094_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17087_Quiz14/7/17.rtf",
+				"/home/nikhil/Desktop/Quiz/mt17085_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17084_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17083_Quiz14/7/17.c",
+				"/home/nikhil/.bashrc",
+				"/home/nikhil/Desktop/Quiz/17110_Quizsoftcopysubmissionforthosewhosubmittedhardcopy.c",
+				"/home/nikhil/Desktop/Quiz/2017355_Quizsoftcopysubmissionforthosewhosubmittedhardcopy.c",
+				"/home/nikhil/Desktop/Quiz/mt17097_Quizsoftcopysubmissionforthosewhosubmittedhardcopy.c",
+				"/home/nikhil/Desktop/Quiz/mt17143_Quizsoftcopysubmissionforthosewhosubmittedhardcopy.c",
+				"/home/nikhil/Desktop/Quiz/mt17081_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/Quiz/mt17142_Quizsoftcopysubmissionforthosewhosubmittedhardcopy.txt",
+				"/home/nikhil/Desktop/Quiz/2017355_Softcopysubmissionforquizon7/7/17.c",
+				"/home/nikhil/.cache/.fr-LtFInf/17098_Quiz14/7/17.c",
+				"/home/nikhil/Desktop/cid.csv",
+				"/home/nikhil/Desktop/pranshu/Makefile",
+				"/home/nikhil/Desktop/pranshu/speller.c",
+				"/home/nikhil/Desktop/pranshu/dictionary.h",
+				"/home/nikhil/Desktop/pranshu/dictionary.c",
+				"/home/nikhil/Desktop/scores",
+				"/home/nikhil/Desktop/list.py",
+				"/home/nikhil/Desktop/out",
+				"/home/nikhil/Desktop/scores.py",
+				"/home/nikhil/CP/CodeForces/100722/B.py",
+				"/home/nikhil/CP/CodeForces/100722/C.cpp",
+				"/home/nikhil/CP/CodeForces/100722/F.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.py",
+				"/home/nikhil/CP/CodeForces/466/out",
+				"/home/nikhil/CP/CodeForces/466/in",
+				"/home/nikhil/CP/CodeForces/466/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/out",
+				"/home/nikhil/CP/CodeForces/831/in",
+				"/home/nikhil/CP/CodeForces/831/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/E.cpp",
+				"/home/nikhil/CP/CodeForces/831/B.cpp",
+				"/home/nikhil/CP/CodeForces/831/A.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/TWOCOINS.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/in",
+				"/home/nikhil/CP/CodeChef/JUNE17/PRMQ.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/out",
+				"/home/nikhil/.config/sublime-text-3/Packages/User/skeleton.sublime-snippet",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.py",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/PSHTTR.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/gen.py",
+				"/home/nikhil/CP/CodeForces/828/out",
+				"/home/nikhil/CP/CodeForces/828/in",
+				"/home/nikhil/CP/CodeForces/828/D.cpp",
+				"/home/nikhil/CP/CodeForces/828/A.cpp",
+				"/home/nikhil/CP/CodeForces/828/C.cpp",
+				"/home/nikhil/CP/CodeForces/828/B.cpp",
+				"/home/nikhil/.config/sublime-text-3/Packages/C++/C++ Single File.sublime-build",
+				"/home/nikhil/CP/CodeForces/489/C.cpp",
+				"/home/nikhil/CP/.build/C.cpp",
+				"/home/nikhil/CP/CodeForces/389/B.cpp",
+				"/home/nikhil/CP/CodeForces/373/A.py",
+				"/home/nikhil/CP/CodeForces/384/A.cpp",
+				"/home/nikhil/CP/CodeForces/384/A.py",
+				"/home/nikhil/CP/CodeForces/69/A.cpp",
+				"/home/nikhil/CP/CodeForces/443/A.py",
+				"/home/nikhil/CP/CodeForces/443/A.cpp",
+				"/home/nikhil/Downloads/C.cpp",
+				"/home/nikhil/Downloads/p552.t1.P1.run769264.team5463.out",
+				"/home/nikhil/Downloads/p552.t1.in",
+				"/home/nikhil/CP/CodeChef/JULY17/out.stack",
+				"/usr/include/c++/5/bits/unordered_map.h",
+				"/home/nikhil/Desktop/gen.py",
+				"/home/nikhil/CP/SPOJ/HORRIBLE.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.py",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/IPCTRAIN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CALC.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/NITIKA.py",
+				"/home/nikhil/Desktop/abc.py",
+				"/home/nikhil/CP/.build/abc",
+				"/home/nikhil/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/nikhil/Desktop/test.py",
+				"/home/nikhil/Desktop/test.cpp",
+				"/home/nikhil/CP/.gitignore",
+				"/home/nikhil/CP/.build/test.cpp",
+				"/home/nikhil/CP/CodeForces/822/in",
+				"/home/nikhil/CP/CodeForces/822/out",
+				"/home/nikhil/CP/CodeForces/822/A.py",
+				"/home/nikhil/CP/CodeForces/822/D.cpp",
+				"/home/nikhil/CP/CodeForces/822/C.cpp",
+				"/home/nikhil/CP/CodeForces/822/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/out",
+				"/home/nikhil/CP/FCP/CP1_17PB/in",
+				"/home/nikhil/Desktop/abc/test.py",
+				"/home/nikhil/Downloads/p104.t1.in",
+				"/home/nikhil/CP/FCP/CP1_17PB/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/out",
+				"/home/nikhil/CP/CodeForces/818/in",
+				"/home/nikhil/CP/CodeForces/818/B.cpp",
+				"/home/nikhil/CP/CodeForces/818/D.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.pp",
+				"/home/nikhil/CP/CodeForces/818/A.cpp",
+				"/home/nikhil/.ssh/config",
+				"/home/nikhil/Downloads/p685.t2.in",
+				"/home/nikhil/CP/CodeForces/812/C.cpp",
+				"/home/nikhil/Desktop/DSA/Lab7/sol.cpp",
+				"/home/nikhil/Desktop/segtree.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/F.cpp",
+				"/home/nikhil/CP/CodeChef/JULY16/WORKCHEF.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/D.cpp",
+				"/home/nikhil/CP/FCP/CP2_C1/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB",
+				"/home/nikhil/CP/CodeForces/820/out",
+				"/home/nikhil/CP/CodeForces/820/in",
+				"/home/nikhil/CP/CodeForces/820/C.py",
+				"/home/nikhil/Downloads/p680.t20.in",
+				"/home/nikhil/CP/CodeForces/820/B.cpp",
+				"/home/nikhil/CP/CodeForces/820/A.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/brute.py",
+				"/home/nikhil/.cache/.fr-l48Cly/c.cpp",
+				"/home/nikhil/.cache/.fr-Yy9gNl/17KSC.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/out"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" ",
+					",",
+					"iiitd.ac.in",
+					"],",
+					"\t",
+					"cout ",
+					"find",
+					"query",
+					"M.",
+					"&T, ",
+					"int",
+					",",
+					")]",
+					"code(",
+					"hash(",
+					"Q[i",
+					",",
+					"==",
+					"== '#'",
+					"cerr",
+					"update(",
+					"query",
+					"/;\",",
+					"n",
+					"A[",
+					"auto",
+					"ebceabazcd",
+					"int",
+					"-",
+					" ",
+					"+=",
+					") - ",
+					"upper_bound",
+					"cout",
+					"A[",
+					"A",
+					"L",
+					"#",
+					"MEDIAN",
+					"two == (c",
+					"insert(",
+					"endl",
+					"count",
+					"print",
+					"cout",
+					"1 -i",
+					"++",
+					"count",
+					"node ",
+					"print(",
+					"pii",
+					"105",
+					"}",
+					"39",
+					"S[i",
+					"i",
+					"lc",
+					"int",
+					"to_integral",
+					"newb",
+					"new",
+					"/",
+					"//",
+					"2.718",
+					"to_integral",
+					"int",
+					"#cp",
+					"/ two",
+					"ans",
+					"mul",
+					"Decimal",
+					"ti",
+					"to_integral",
+					"to_integral_exact",
+					".to_integral()",
+					"rounding=ROUND_FLOOR",
+					"two",
+					"mul",
+					"ans",
+					"decimal.",
+					"ROUND_FLOOR",
+					"to_integral()",
+					"to_integral",
+					"int",
+					"A[",
+					"3 *",
+					"digits",
+					" ",
+					" 10",
+					"0 1",
+					" ",
+					"966",
+					"96609",
+					"284590",
+					"28459",
+					"2845",
+					"2818",
+					"718",
+					"return",
+					"|S|",
+					"$\\item",
+					":} ",
+					"\\end{itemize}",
+					"\\begin{itemize}",
+					":",
+					" \\\\",
+					"c",
+					"l",
+					"cout",
+					"lc",
+					";\n",
+					"void test",
+					"x",
+					"S[i]",
+					"S[",
+					"S(",
+					"A",
+					"u",
+					"int check",
+					"(f == n-1)",
+					"3 ",
+					"{",
+					"B[i]",
+					"npde",
+					"lli",
+					"Tm",
+					"T[",
+					"if("
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"sublime-text",
+					"",
+					"}, \n",
+					", \n",
+					"0",
+					"\\",
+					",",
+					"newLecture",
+					"<=",
+					"==",
+					" !=",
+					" = ",
+					"],\n",
+					" ",
+					"|3|",
+					"|2|",
+					"|1|",
+					"|0|",
+					"|1|",
+					"1",
+					"|0|",
+					"|",
+					"0",
+					"1",
+					"0",
+					"",
+					"relationship but",
+					" | ",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"1",
+					"0",
+					"",
+					"1",
+					"0",
+					" ",
+					"\\t",
+					"3 ",
+					"2 ",
+					"1 ",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" ",
+					"'B'",
+					"q[",
+					"sublime_text.desktop",
+					"sublime-text.desktop"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 112.0
+			},
+			"output.latextools":
+			{
+				"height": 98.0
+			},
+			"output.markdown":
+			{
+				"height": 100.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"prmq.cpp",
+						"CodeChef/JUNE17/PRMQ.cpp"
+					],
+					[
+						"codecjul17phs",
+						"CodeChef/JULY17/PSHTTR.cpp"
+					],
+					[
+						"spojh",
+						"SPOJ/HORRIBLE.cpp"
+					],
+					[
+						"ccjl17py",
+						"CodeChef/JULY17/EXPTREE.py"
+					],
+					[
+						"codecjul17ipc",
+						"CodeChef/JULY17/IPCTRAIN.cpp"
+					],
+					[
+						"ccj17prm",
+						"CodeChef/JUNE17/PRMQ.cpp"
+					],
+					[
+						"cf787",
+						"CodeForces/787/A.cpp"
+					],
+					[
+						"cf811",
+						"CodeForces/811/A.cpp"
+					],
+					[
+						"ccsnkpa1",
+						"CodeChef/SNCKPA17/TEAMFORM.cpp"
+					],
+					[
+						"fcpale",
+						"FCP/ALIEN.cpp"
+					],
+					[
+						"ccm17sw.cpp",
+						"CodeChef/MAY17/SANDWICH.cpp"
+					],
+					[
+						"ccmgpdcpp",
+						"CodeChef/MAY17/GPD.cpp"
+					],
+					[
+						"ccm17gpd",
+						"CodeChef/MAY17/GPD"
+					],
+					[
+						"may17/suba",
+						"CodeChef/MAY17/CHEFSUBA.cpp"
+					],
+					[
+						"main",
+						"Google/CodeJam 2017/Round 1C/main"
+					],
+					[
+						"gco17qrb",
+						"Google/CodeJam 2017/Qualification Round/B/main.cpp"
+					],
+					[
+						"758dc",
+						"CodeForces/758/D.cpp"
+					],
+					[
+						"758c",
+						"CodeForces/758/C.cpp"
+					],
+					[
+						"c.p",
+						"CodeForces/735/C.py"
+					],
+					[
+						"c.",
+						"CodeForces/556/C.cpp"
+					],
+					[
+						"usa20sehoomaicpp",
+						"USACO/2016-2017/Second Contest/Hoof, Paper, Scissors/main.cpp"
+					],
+					[
+						"faceround1movingmain",
+						"Facebook/Facebook Hacker Cup 2017/Round 1/Manic Moving/main.cpp"
+					],
+					[
+						"tour",
+						"CodeChef/JAN17/TOURISTS.cpp"
+					],
+					[
+						"laz",
+						"Facebook/Facebook Hacker Cup 2017/Qualification Round/Lazy Loading/Lazy Loading.cpp"
+					],
+					[
+						"fcp/unio",
+						"FCP/UNIONLL.c"
+					],
+					[
+						"xorfi",
+						"FCP/XOR_FIB.c"
+					],
+					[
+						"corfi",
+						"CodeChef/COOK66/FRUITS.cpp"
+					],
+					[
+						"a.cpp",
+						"CodeForces/112/A.cpp"
+					],
+					[
+						"681",
+						"CodeForces/681/C.cpp"
+					],
+					[
+						"385a.cpp",
+						"CodeForces/385/A.cpp"
+					],
+					[
+						"b",
+						"B.cpp"
+					],
+					[
+						"add",
+						"myapp/templates/add.html"
+					],
+					[
+						"set",
+						"smahc/settings.py"
+					],
+					[
+						"view",
+						"myapp/views.py"
+					],
+					[
+						"urls",
+						"myapp/urls.py"
+					],
+					[
+						"index",
+						"myapp/templates/index.html"
+					],
+					[
+						"model",
+						"myapp/models.py"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"wo",
+						"CodeChef/JULY16/WORKCHEF.cpp"
+					],
+					[
+						"jul16sg",
+						"CodeChef/JULY16/CHSGMNTS.cpp"
+					],
+					[
+						"jul16sgm",
+						"CodeChef/JULY16/CHSGMNTS"
+					],
+					[
+						"chefs",
+						"CodeChef/MAY16/CHEFSOC2.cpp"
+					],
+					[
+						"chs",
+						"CodeChef/JULY16/CHSGMNTS.cpp"
+					],
+					[
+						"lecschedadmin",
+						"lectureSchedule/admin.py"
+					],
+					[
+						"stdenmode",
+						"students/models.py"
+					],
+					[
+						"top",
+						"templates/lectureSchedule/topics.html"
+					],
+					[
+						"scedjs",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"lecshmodels",
+						"lectureSchedule/models.py"
+					],
+					[
+						"sched",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"lecscemodel",
+						"lectureSchedule/models.py"
+					],
+					[
+						"models",
+						"workallocation/models.py"
+					],
+					[
+						"lecschedurls",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"base",
+						"templates/base.html"
+					],
+					[
+						"bathce",
+						"templates/students/batches.html"
+					],
+					[
+						"lecschedviews",
+						"lectureSchedule/views.py"
+					],
+					[
+						"work",
+						"templates/vmcPortal/adminHomeWorkReport.html"
+					],
+					[
+						"schedulecss",
+						"static/dist/css/schedule2.css"
+					],
+					[
+						"basejs",
+						"static/dist/js/base.js"
+					],
+					[
+						"lecview",
+						"lectureSchedule/views.py"
+					],
+					[
+						"vmcurls",
+						"vmcPortal/urls.py"
+					],
+					[
+						"leciew",
+						"lectureSchedule/views.py"
+					],
+					[
+						"schjs",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"lecsview",
+						"lectureSchedule/views.py"
+					],
+					[
+						"schede",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"vmcurl",
+						"vmcPortal/urls.py"
+					],
+					[
+						"schedview",
+						"lectureSchedule/views.py"
+					],
+					[
+						"schedjs",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"myjs",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"settin",
+						"vmcPortal/settings.py"
+					],
+					[
+						"calen",
+						"vmcPortal/calender.py"
+					],
+					[
+						"vmcpoviews",
+						"vmcPortal/views.py"
+					],
+					[
+						"lecviews",
+						"lectureSchedule/views.py"
+					],
+					[
+						"taks",
+						"teacher/tasks.py"
+					],
+					[
+						"ma",
+						"manage.py"
+					],
+					[
+						"teamode",
+						"teacher/models.py"
+					],
+					[
+						"lecs",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"lecmode",
+						"lectureSchedule/models.py"
+					],
+					[
+						"lec",
+						"lectureSchedule/views.py"
+					],
+					[
+						"cale",
+						"vmcPortal/calender.py"
+					],
+					[
+						"tasks",
+						"teacher/tasks.py"
+					],
+					[
+						"taska",
+						"templates/workAllocation/addwork.html"
+					],
+					[
+						"studentmodels",
+						"students/models.py"
+					],
+					[
+						"schedmodel",
+						"lectureSchedule/models.py"
+					],
+					[
+						"sched2.",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"sche",
+						"templates/lectureSchedule/schedules.html"
+					],
+					[
+						"shced",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"workrep",
+						"templates/vmcPortal/adminHomeWorkReport.html"
+					],
+					[
+						"teachmodel",
+						"teacher/models.py"
+					],
+					[
+						"timestamp",
+						"templates/vmcPortal/userTimeStampsFromTo.html"
+					],
+					[
+						"all",
+						"templates/vmcPortal/allLectures.html"
+					],
+					[
+						"month",
+						"templates/vmcPortal/monthlyUserStatus.html"
+					],
+					[
+						"gazhtm",
+						"templates/vmcPortal/gazettedHolidays.html"
+					],
+					[
+						"vmcview",
+						"vmcPortal/views.py"
+					],
+					[
+						"my",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"vmcviews",
+						"vmcPortal/views.py"
+					],
+					[
+						"dail",
+						"templates/vmcPortal/dailyUserStatus.html"
+					],
+					[
+						"mys",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"leavepointsrecordsmonthyear",
+						"templates/vmcPortal/leavePointsRecordsMonthYear.html"
+					],
+					[
+						"bae",
+						"templates/base.html"
+					],
+					[
+						"admin",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"adminhomete",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"teamview",
+						"team/views.py"
+					],
+					[
+						"bas",
+						"templates/base.html"
+					],
+					[
+						"teachmod",
+						"teacher/models.py"
+					],
+					[
+						"lecmodesl",
+						"lectureSchedule/models.py"
+					],
+					[
+						"recent",
+						"templates/lectureSchedule/groupRecentLecture.html"
+					],
+					[
+						"lecsceurl",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"vi",
+						"vmcPortal/views.py"
+					],
+					[
+						"slotsta",
+						"templates/lectureSchedule/slotStatus.html"
+					],
+					[
+						"lecurls",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"lecvie",
+						"lectureSchedule/views.py"
+					],
+					[
+						"teacmodel",
+						"teacher/models.py"
+					],
+					[
+						"tas",
+						"teacher/tasks.py"
+					],
+					[
+						"req",
+						"requirements.txt"
+					],
+					[
+						"task",
+						"teacher/tasks.py"
+					],
+					[
+						"work/mo",
+						"workallocation/models.py"
+					],
+					[
+						"sett",
+						"vmcPortal/settings.py"
+					],
+					[
+						"teacehr",
+						"templates/teacher/teacher.html"
+					],
+					[
+						"views",
+						"vmcPortal/views.py"
+					],
+					[
+						"setting",
+						"vmcPortal/settings.py"
+					],
+					[
+						"mode",
+						"team/models.py"
+					],
+					[
+						"teacher/model",
+						"teacher/models.py"
+					],
+					[
+						"se",
+						"smahc/settings.py"
+					],
+					[
+						"inve",
+						"myapp/templates/inventory.html"
+					],
+					[
+						"inde",
+						"myapp/templates/index.html"
+					],
+					[
+						"mdoe",
+						"myapp/models.py"
+					],
+					[
+						"style",
+						"staticfiles/myapp/css/style.css"
+					],
+					[
+						"s",
+						"smahc/settings.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ems",
+						"~/.sublime-projects/EMS.sublime-project"
+					],
+					[
+						"das",
+						"~/.sublime-projects/DSA.sublime-project"
+					],
+					[
+						"",
+						"~/.sublime-projects/DSA.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"merge",
+						"merge"
+					],
+					[
+						"fits",
+						"fits"
+					],
+					[
+						"trie_in",
+						"trie_insert"
+					],
+					[
+						"tire",
+						"trie_insert"
+					],
+					[
+						"insert",
+						"insert"
+					],
+					[
+						"inser",
+						"insert"
+					],
+					[
+						"trie",
+						"trie_find"
+					],
+					[
+						"mod",
+						"powmod"
+					],
+					[
+						"",
+						"root"
+					],
+					[
+						"xor",
+						"maxxor"
+					]
+				],
+				"width": 374.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 206.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 279,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/nikhil/.sublime-projects/CP.sublime-workspace",
+			"/home/nikhil/.sublime-projects/EMS.sublime-workspace",
+			"/home/nikhil/.sublime-projects/DSA.sublime-workspace",
+			"/home/nikhil/.sublime-projects/acmgtga.sublime-workspace",
+			"/home/nikhil/.sublime-projects/bteproject.sublime-workspace",
+			"/home/nikhil/.sublime-projects/PhDPortal.sublime-workspace",
+			"/home/nikhil/.sublime-projects/zulip.sublime-workspace"
+		]
+	}
+}

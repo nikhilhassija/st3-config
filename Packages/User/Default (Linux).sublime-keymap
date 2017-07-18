@@ -1,0 +1,111 @@
+[
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"github"} },
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+alt+m"], "command": "toggle_minimap" },
+	{ "keys": ["alt+shift+t"], "command": "open_terminal" },
+
+	{ "keys": ["alt+up"], "command": "travel_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["alt+right"], "command": "travel_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["alt+down"], "command": "travel_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["alt+left"], "command": "travel_to_pane", "args": {"direction": "left"} },
+
+	{ "keys": ["alt+a", "up"], "command": "travel_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["alt+a", "right"], "command": "travel_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["alt+a", "down"], "command": "travel_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["alt+a", "left"], "command": "travel_to_pane", "args": {"direction": "left"} },
+
+	{ "keys": ["alt+a", "shift+up"], "command": "carry_file_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["alt+a", "shift+right"], "command": "carry_file_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["alt+a", "shift+down"], "command": "carry_file_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["alt+a", "shift+left"], "command": "carry_file_to_pane", "args": {"direction": "left"} },
+
+	{ "keys": ["alt+a", "alt+shift+up"], "command": "clone_file_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["alt+a", "alt+shift+right"], "command": "clone_file_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["alt+a", "alt+shift+down"], "command": "clone_file_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["alt+a", "alt+shift+left"], "command": "clone_file_to_pane", "args": {"direction": "left"} },
+	// You can also create the pane automatically with the following command (insert empty parameters):
+	// { "keys": [], "command": "create_pane_with_cloned_file", "args": {"direction": ""} }
+
+	{ "keys": ["alt+a", "ctrl+up"], "command": "create_pane", "args": {"direction": "up"} },
+	{ "keys": ["alt+a", "ctrl+right"], "command": "create_pane", "args": {"direction": "right"} },
+	{ "keys": ["alt+a", "ctrl+down"], "command": "create_pane", "args": {"direction": "down"} },
+	{ "keys": ["alt+a", "ctrl+left"], "command": "create_pane", "args": {"direction": "left"} },
+	// You can also add  "give_focus": true to automatically focus on the new pane as follows:
+	// { "keys": [], "command": "create_pane", "args": {"direction": "", "give_focus": true} }
+
+	{ "keys": ["alt+a", "ctrl+shift+up"], "command": "destroy_pane", "args": {"direction": "up"} },
+	{ "keys": ["alt+a", "ctrl+shift+right"], "command": "destroy_pane", "args": {"direction": "right"} },
+	{ "keys": ["alt+a", "ctrl+shift+down"], "command": "destroy_pane", "args": {"direction": "down"} },
+	{ "keys": ["alt+a", "ctrl+shift+left"], "command": "destroy_pane", "args": {"direction": "left"} },
+	// You can also destroy the current pane by binding the following command:
+	{ "keys": ["alt+a","d"], "command": "destroy_pane", "args": {"direction": "self"} },
+
+	{ "keys": ["alt+a", "ctrl+alt+up"], "command": "create_pane_with_file", "args": {"direction": "up"} },
+	{ "keys": ["alt+a", "ctrl+alt+right"], "command": "create_pane_with_file", "args": {"direction": "right"} },
+	{ "keys": ["alt+a", "ctrl+alt+down"], "command": "create_pane_with_file", "args": {"direction": "down"} },
+	{ "keys": ["alt+a", "ctrl+alt+left"], "command": "create_pane_with_file", "args": {"direction": "left"} },
+
+
+	// You can pull a file from another pane by binding the following command:
+	// { "keys": [], "command": "pull_file_from_pane", "args": { "direction": ""} }
+
+	{ "keys": ["alt+a", "z"], "command": "zoom_pane", "args": {"fraction": 1.0} },
+	{ "keys": ["alt+a", "ctrl+z"], "command": "unzoom_pane", "args": {} },
+
+	{ "keys": ["alt+a", "ctrl+c"], "command": "resize_pane", "args": {"orientation": "cols"} },
+	{ "keys": ["alt+a", "ctrl+r"], "command": "resize_pane", "args": {"orientation": "rows"} },
+
+	// Cancel build
+	{ "keys": ["ctrl+alt+b"], "command": "cancel_build" },
+
+	// Hide Gutter
+	{"keys": ["alt+l"], "command": "toggle_setting", "args": {"setting": "gutter"} },
+
+	// Open Containing Folder
+	{"keys": ["ctrl+alt+shift+f"], "command": "open_project_folder"},
+	{"keys": ["alt+shift+f"], "command": "open_file_folder"},
+
+	//NerdTree (Sort of)
+	{ "keys": ["alt+shift+s"], "command": "focus_side_bar" },
+	{ "keys": ["ctrl+alt+shift+s"], "command": "focus_file_on_sidebar" },
+
+	// Advanced New File
+	{ "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
+
+	// Swap build shortcuts
+	{ "keys": ["ctrl+shift+b"], "command": "build" },
+	{ "keys": ["ctrl+b"], "command": "build", "args": {"select": true} },
+
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+	
+	//Move cursor to EOL or BOL
+	{ "keys": ["ctrl+shift+e"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+
+	{ "keys": ["ctrl+a"], "command": "set_action_motion", "args": {
+		"action": "vi_increment_number",
+		"motion": null },
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{ "keys": ["alt+x"], "command": "set_action_motion", "args": {
+		"action": "vi_decrement_number",
+		"motion": null }
+	},
+
+	// { "keys": ["ctrl+l"], "command": "null"},
+	{ 	"keys": ["ctrl+l","backspace"], 
+		"context":  [
+			{"key": "selector", "operator": "equal", "operand": "text.tex.latex"}],
+		"command": "delete_temp_files"},
+	// Delete/clear local Cache
+	{ 	"keys": ["ctrl+l","ctrl+d","ctrl+c"], 
+		"context":  [
+			{"key": "selector", "operator": "equal", "operand": "text.tex.latex"}],
+		"command": "clear_local_latex_cache"},
+
+	// ctrl+l,w to display word count
+	{	"keys": ["ctrl+l", "w"],
+		"context":  [
+			{"key": "selector", "operator": "equal", "operand": "text.tex.latex"}],
+		"command": "texcount" }
+]
