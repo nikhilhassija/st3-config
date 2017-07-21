@@ -89,7 +89,7 @@
 		"/home/nikhil/Desktop/AC"
 	],
 	"last_version": 3126,
-	"last_window_id": 280,
+	"last_window_id": 281,
 	"log_indexing": false,
 	"settings":
 	{
@@ -101,144 +101,92 @@
 				"selected_items":
 				[
 					[
-						"drive",
-						"driver_number"
+						"M",
+						"MAX_N"
 					],
 					[
-						"driver",
-						"driver_number"
+						"clock",
+						"clock_t"
 					],
 					[
-						"car",
-						"car_model"
+						"tree_",
+						"tree_query"
 					],
 					[
-						"re",
-						"request"
+						"s",
+						"skeleton\tskeleton"
 					],
 					[
-						"emp",
-						"employee_set"
+						"mind",
+						"min_index"
 					],
 					[
-						"H",
-						"HttpResponse"
+						"min",
+						"min_index"
 					],
 					[
-						"em",
-						"emp_id"
-					],
-					[
-						"Emp",
-						"Employee"
-					],
-					[
-						"fg-l",
-						"fg-float"
-					],
-					[
-						"co",
-						"col-md-offset-1"
-					],
-					[
-						"logo",
-						"logo_link"
-					],
-					[
-						"car_",
-						"car_model"
-					],
-					[
-						"ap",
-						"api_view"
-					],
-					[
-						"com",
-						"company"
-					],
-					[
-						"has",
-						"has_company"
-					],
-					[
-						"BA",
-						"BASE_DIR"
-					],
-					[
-						"name",
-						"namespace"
-					],
-					[
-						"regi",
-						"register_form"
-					],
-					[
-						"ex",
-						"extra_tags"
+						"c",
+						"class\tclass-..-(class)"
 					],
 					[
 						"me",
-						"messages"
+						"median"
 					],
 					[
-						"per",
-						"permission_classes"
+						"mean",
+						"MEDIAN"
 					],
 					[
-						"Js",
-						"JsonResponse"
+						"b_",
+						"b_query"
 					],
 					[
-						"is",
-						"is_valid"
+						"b",
+						"birdsitup"
 					],
 					[
-						"Em",
-						"Employee"
+						"add",
+						"addacorn"
 					],
 					[
-						"phone",
-						"phone_number"
+						"h",
+						"hopcroftKarp"
 					],
 					[
-						"JSONR",
-						"JSONResponse"
+						"ma",
+						"MAX_N"
 					],
 					[
-						"Cm",
-						"CompanySerializer"
+						"i",
+						"i"
 					],
 					[
-						"pho",
-						"phone_number"
+						"next",
+						"next_r"
 					],
 					[
-						"comp",
-						"company"
+						"go",
+						"goR"
 					],
 					[
-						"new",
-						"new_comp"
+						"swap",
+						"swapLR"
 					],
 					[
-						"Com",
-						"Company"
+						"max",
+						"max_suf"
 					],
 					[
-						"Ca",
-						"CharField"
+						"max_",
+						"max_suf"
 					],
 					[
-						"HR",
-						"HttpResponseRedirect"
+						"mx",
+						"max_pre"
 					],
 					[
-						"HT",
-						"HttpResponseRedirect"
-					],
-					[
-						"Ht",
-						"HttpResponse"
+						"mxa",
+						"max_sum"
 					],
 					[
 						"get",
@@ -246,10 +194,6 @@
 					],
 					[
 						"Add",
-						"AddEdge"
-					],
-					[
-						"add",
 						"AddEdge"
 					],
 					[
@@ -261,16 +205,12 @@
 						"upper_bound"
 					],
 					[
-						"max",
-						"max_p"
-					],
-					[
 						"pr",
 						"price_sort"
 					],
 					[
-						"min",
-						"min_ans"
+						"has",
+						"has_pos"
 					],
 					[
 						"is_",
@@ -297,10 +237,6 @@
 						"X"
 					],
 					[
-						"i",
-						"if\tIf Condition"
-					],
-					[
 						"cat",
 						"cat_m"
 					],
@@ -325,16 +261,8 @@
 						"child_best"
 					],
 					[
-						"c",
-						"child"
-					],
-					[
 						"p",
 						"pyplot"
-					],
-					[
-						"s",
-						"square"
 					],
 					[
 						"n",
@@ -381,6 +309,10 @@
 						"undergrad_info"
 					],
 					[
+						"ap",
+						"append"
+					],
+					[
 						"e",
 						"enrollment_number"
 					],
@@ -415,10 +347,6 @@
 					[
 						"de",
 						"default"
-					],
-					[
-						"b",
-						"beginend\t$1.begin(), $1.end()"
 					],
 					[
 						"subjc",
@@ -463,6 +391,10 @@
 					[
 						"sce",
 						"schedule"
+					],
+					[
+						"new",
+						"new_event"
 					],
 					[
 						"at",
@@ -533,8 +465,16 @@
 						"quantity_change"
 					],
 					[
+						"is",
+						"is_authenticated"
+					],
+					[
 						"user",
 						"user"
+					],
+					[
+						"re",
+						"request"
 					],
 					[
 						"err",
@@ -633,7 +573,7 @@
 					],
 					[
 						"Packages/C++/C++ Single File.sublime-build",
-						"IO"
+						""
 					]
 				],
 				[
@@ -955,6 +895,46 @@
 				[
 					[
 						[
+							"Packages/Python/Python Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/Python/Python.sublime-build",
 							""
 						],
@@ -965,7 +945,7 @@
 					],
 					[
 						"Packages/Python/Python.sublime-build",
-						"Syntax Check"
+						""
 					]
 				],
 				[
@@ -992,41 +972,65 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "wr",
+				"height": 339.0,
+				"last_filter": "close",
 				"selected_items":
 				[
 					[
-						"wr",
-						"Word Wrap: Toggle"
+						"close",
+						"Project: Close"
 					],
 					[
-						"html",
-						"Set Syntax: HTML"
+						"snippetes ",
+						"SnippetMaker: Edit Snippet"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"close ",
+						"Project: Close"
+					],
+					[
+						"clos ",
+						"Project: Close"
 					],
 					[
 						"list ",
 						"Package Control: List Packages"
 					],
 					[
-						"close",
+						"proj clo",
 						"Project: Close"
 					],
 					[
-						"project ",
-						"Project: Save As"
+						"plain",
+						"Set Syntax: Plain Text"
 					],
 					[
-						"C++",
-						"Set Syntax: C++"
+						"pytho",
+						"Set Syntax: Python"
+					],
+					[
+						"late",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
 					],
 					[
 						"proj close",
 						"Project: Close"
 					],
 					[
-						"python",
-						"Set Syntax: Python"
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
 					],
 					[
 						"clo",
@@ -1054,10 +1058,6 @@
 					],
 					[
 						"c+",
-						"Set Syntax: C++"
-					],
-					[
-						"c++",
 						"Set Syntax: C++"
 					],
 					[
@@ -1225,6 +1225,10 @@
 						"Snippet: Function"
 					],
 					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
 						"pyt",
 						"Set Syntax: Python"
 					],
@@ -1251,10 +1255,6 @@
 					[
 						"insta",
 						"Package Control: Install Package"
-					],
-					[
-						"late",
-						"Set Syntax: LaTeX"
 					],
 					[
 						"c",
@@ -1285,7 +1285,7 @@
 						"LaTeXTools: View package documentation"
 					]
 				],
-				"width": 437.0
+				"width": 431.0
 			},
 			"console":
 			{
@@ -1307,134 +1307,134 @@
 			},
 			"file_history":
 			[
-				"/home/nikhil/Desktop/EMS/templates/internal/add_cab.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/add_grpu[.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/groups.html",
-				"/home/nikhil/Desktop/EMS/app/models.py",
-				"/home/nikhil/Desktop/EMS/app/views.py",
-				"/home/nikhil/Desktop/EMS/internal/views.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/base.html",
-				"/home/nikhil/Desktop/EMS/internal/models.py",
-				"/home/nikhil/Desktop/cid.csv",
-				"/home/nikhil/Desktop/EMS/EMS/settings.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/cabs.html",
-				"/home/nikhil/Desktop/EMS/templates/app/add_employee.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/companies.html",
-				"/home/nikhil/Desktop/EMS/internal/admin.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/view_company.html",
-				"/home/nikhil/Desktop/EMS/templates/app/index.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/index.html",
-				"/home/nikhil/Desktop/EMS/app/urls.py",
-				"/home/nikhil/Desktop/EMS/static/vendors/bower_components/material-design-iconic-font/svg/2.1/01 - web application/refresh-sync-alert.svg",
-				"/home/nikhil/Desktop/EMS/static/js/app.js",
-				"/home/nikhil/Desktop/jQuery/light/full/js/app.js",
-				"/home/nikhil/Desktop/EMS/templates/common/base.html",
-				"/home/nikhil/Desktop/EMS/internal/urls.py",
-				"/home/nikhil/Desktop/EMS/templates/app/edit_employee.html",
-				"/home/nikhil/Desktop/EMS/EMS/local_settings.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/index_test.html",
-				"/home/nikhil/Desktop/EMS/templates/app/add_test.html",
-				"/home/nikhil/Desktop/EMS/templates/app/register.html",
-				"/home/nikhil/Desktop/jQuery/light/seed/js/app.js",
-				"/home/nikhil/Desktop/EMS/templates/app/login.html",
-				"/home/nikhil/Desktop/EMS/templates/app/base.html",
-				"/home/nikhil/Desktop/EMS/templates/app/index_test.html",
-				"/home/nikhil/Pictures/untitled",
-				"/home/nikhil/CP/CodeChef/JUNE17/UNIONSET.cpp",
-				"/home/nikhil/Desktop/MTR17/L1_ECE/sol.c",
-				"/home/nikhil/Desktop/DSA-Summer17-Labs/MS_2.cpp",
-				"/home/nikhil/Desktop/DSA-Summer17-Labs/MS_2(alt).cpp",
-				"/home/nikhil/Desktop/DSA/Lab6/sol.cpp",
-				"/tmp/rsub-62gbsm/local_settings.py",
-				"/tmp/rsub-0f_xwc/requirements.txt",
-				"/home/nikhil/Desktop/EMS/.gitignore",
-				"/tmp/rsub-z3fpj5/settings.py",
+				"/home/nikhil/CP/CodeForces/455/A.cpp",
+				"/home/nikhil/CP/CodeForces/479/C.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.cpp",
+				"/home/nikhil/CP/CodeForces/100722/out",
+				"/home/nikhil/CP/CodeForces/100722/in",
+				"/home/nikhil/CP/CodeForces/100722/B.py",
+				"/home/nikhil/CP/CodeForces/100722/C.cpp",
+				"/home/nikhil/CP/CodeForces/100722/F.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.py",
+				"/home/nikhil/CP/CodeForces/466/out",
+				"/home/nikhil/CP/CodeForces/466/in",
+				"/home/nikhil/CP/CodeForces/466/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/out",
+				"/home/nikhil/CP/CodeForces/831/in",
+				"/home/nikhil/CP/CodeForces/831/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/E.cpp",
+				"/home/nikhil/CP/CodeForces/831/B.cpp",
+				"/home/nikhil/CP/CodeForces/831/A.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/TWOCOINS.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/in",
+				"/home/nikhil/CP/CodeChef/JUNE17/PRMQ.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/out",
 				"/home/nikhil/.bashrc",
-				"/tmp/rsub-r0wjcy/runtime.txt",
-				"/home/nikhil/Desktop/EMS/app/api_views.py",
-				"/home/nikhil/Desktop/EMS/app/admin.py",
-				"/home/nikhil/Desktop/taro/EMS/templates/app/index_test.html",
-				"/home/nikhil/Desktop/taro/EMS/app/urls.py",
-				"/home/nikhil/Downloads/DSA_SummerLab6.java",
-				"/home/nikhil/Desktop/DSA/Lab6/1.out",
-				"/home/nikhil/Desktop/taro/EMS/app/models.py",
-				"/home/nikhil/Desktop/taro/EMS/internal/views.py",
-				"/home/nikhil/Desktop/taro/EMS/internal/urls.py",
-				"/home/nikhil/Desktop/taro/EMS/templates/internal/view_company_test.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/internal/index_test.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/internal/login.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/app/login.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/app/register.html",
-				"/home/nikhil/Desktop/taro/EMS/app/utils.py",
-				"/home/nikhil/Desktop/taro/EMS/app/views.py",
-				"/home/nikhil/Desktop/taro/EMS/EMS/settings.py",
-				"/home/nikhil/Desktop/taro/EMS/.gitignore",
-				"/home/nikhil/Desktop/taro/EMS/internal/templates/login.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/login.html",
-				"/home/nikhil/Desktop/taro/EMS/EMS/urls.py",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/index_test.html",
-				"/home/nikhil/Desktop/taro/EMS/static/vendors/bower_components/simpleWeather/index.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/register_test.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/login_test.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/register.html",
-				"/home/nikhil/Desktop/taro/solution.cpp",
-				"/home/nikhil/Desktop/DSA-Summer17-Labs/L3.cpp",
-				"/home/nikhil/Desktop/DSA/Lab3/solution.cpp",
-				"/home/nikhil/Desktop/DSA/Lab2/solution.cpp",
-				"/home/nikhil/Desktop/DSA/Lab4/sol.cpp",
-				"/home/nikhil/Desktop/taro/EMS/requirements.txt",
-				"/home/nikhil/Desktop/taro/EMS/app/serializers.py",
-				"/home/nikhil/Desktop/taro/EMS/mytest.py",
-				"/home/nikhil/Desktop/taro/EMS/mytest",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/add_test.html",
-				"/home/nikhil/Desktop/rest/proj/app/bookreview/serializers.py",
-				"/home/nikhil/Desktop/taro/EMS/Procfile",
-				"/home/nikhil/CP/CodeForces/810/out",
-				"/home/nikhil/CP/CodeForces/810/in",
-				"/home/nikhil/CP/CodeForces/810/C.cpp",
-				"/home/nikhil/CP/CodeForces/810/B.cpp",
-				"/home/nikhil/CP/CodeForces/810/A.py",
-				"/home/nikhil/CP/CodeChef/SNCKQL17/SNAKPROC.cpp",
-				"/home/nikhil/CP/CodeChef/SNCKQL17/out",
-				"/home/nikhil/CP/CodeChef/SNCKQL17/in",
-				"/home/nikhil/CP/CodeForces/101128/out",
-				"/home/nikhil/CP/CodeForces/101128/in",
-				"/home/nikhil/Library/GPD1.cpp",
-				"/home/nikhil/Library/GPD.cpp",
-				"/home/nikhil/CP/CodeForces/101128/F.cpp",
-				"/home/nikhil/CP/CodeForces/101128/J.cpp",
-				"/home/nikhil/CP/CodeForces/101128/H.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/SANDWICH.cpp",
-				"/home/nikhil/CP/SPOJ/CTRICK.cpp",
-				"/home/nikhil/CP/SPOJ/in",
-				"/home/nikhil/CP/SPOJ/out",
+				"/home/nikhil/.config/sublime-text-3/Packages/User/skeleton.sublime-snippet",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.py",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/PSHTTR.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/gen.py",
+				"/home/nikhil/CP/CodeForces/828/out",
+				"/home/nikhil/CP/CodeForces/828/in",
+				"/home/nikhil/CP/CodeForces/828/D.cpp",
+				"/home/nikhil/CP/CodeForces/828/A.cpp",
+				"/home/nikhil/CP/CodeForces/828/C.cpp",
+				"/home/nikhil/CP/CodeForces/828/B.cpp",
+				"/home/nikhil/.config/sublime-text-3/Packages/C++/C++ Single File.sublime-build",
+				"/home/nikhil/CP/CodeForces/489/C.cpp",
+				"/home/nikhil/CP/.build/C.cpp",
+				"/home/nikhil/CP/CodeForces/389/B.cpp",
+				"/home/nikhil/CP/CodeForces/373/A.py",
+				"/home/nikhil/CP/CodeForces/384/A.cpp",
+				"/home/nikhil/CP/CodeForces/384/A.py",
+				"/home/nikhil/CP/CodeForces/69/A.cpp",
+				"/home/nikhil/CP/CodeForces/443/A.py",
+				"/home/nikhil/CP/CodeForces/443/A.cpp",
+				"/home/nikhil/Downloads/C.cpp",
+				"/home/nikhil/Downloads/p552.t1.P1.run769264.team5463.out",
+				"/home/nikhil/Downloads/p552.t1.in",
+				"/home/nikhil/CP/CodeChef/JULY17/out.stack",
+				"/usr/include/c++/5/bits/unordered_map.h",
+				"/home/nikhil/Desktop/gen.py",
 				"/home/nikhil/CP/SPOJ/HORRIBLE.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/out",
-				"/home/nikhil/CP/CodeChef/MAY17/in",
-				"/home/nikhil/CP/CodeChef/MAY17/GPD.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/GPD",
-				"/home/nikhil/CP/AtCoder/abc061/out",
-				"/home/nikhil/CP/AtCoder/abc061/in",
-				"/home/nikhil/CP/CodeForces/794/C.cpp",
-				"/home/nikhil/CP/CodeForces/794/C.py",
-				"/home/nikhil/CP/AtCoder/abc061/A.cpp",
-				"/home/nikhil/CP/AtCoder/abc061/B.cpp",
-				"/home/nikhil/CP/AtCoder/abc061/C.cpp",
-				"/home/nikhil/CP/AtCoder/abc061/D.cpp",
-				"/home/nikhil/CP/CodeForces/794/out",
-				"/home/nikhil/CP/CodeForces/794/in",
-				"/home/nikhil/CP/CodeForces/794/B.cpp",
-				"/home/nikhil/CP/CodeForces/794/A.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/CHEFSUBA.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/WSITES01.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.py",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/IPCTRAIN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CALC.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/NITIKA.py",
+				"/home/nikhil/Desktop/abc.py",
+				"/home/nikhil/CP/.build/abc",
+				"/home/nikhil/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/nikhil/Desktop/test.py",
 				"/home/nikhil/Desktop/test.cpp",
-				"/home/nikhil/CP/CodeForces/799/out",
-				"/home/nikhil/CP/CodeForces/799/in",
-				"/home/nikhil/CP/CodeForces/799/C.cpp",
-				"/home/nikhil/CP/CodeForces/799/A.cpp",
-				"/home/nikhil/CP/CodeForces/799/B.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/CHEFROUT.py",
-				"/home/nikhil/CP/CodeChef/MAY17/MXMEDIAN.py"
+				"/home/nikhil/CP/.gitignore",
+				"/home/nikhil/CP/.build/test.cpp",
+				"/home/nikhil/CP/CodeForces/822/in",
+				"/home/nikhil/CP/CodeForces/822/out",
+				"/home/nikhil/CP/CodeForces/822/A.py",
+				"/home/nikhil/CP/CodeForces/822/D.cpp",
+				"/home/nikhil/CP/CodeForces/822/C.cpp",
+				"/home/nikhil/CP/CodeForces/822/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/out",
+				"/home/nikhil/CP/FCP/CP1_17PB/in",
+				"/home/nikhil/Desktop/abc/test.py",
+				"/home/nikhil/Downloads/p104.t1.in",
+				"/home/nikhil/CP/FCP/CP1_17PB/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/out",
+				"/home/nikhil/CP/CodeForces/818/in",
+				"/home/nikhil/CP/CodeForces/818/B.cpp",
+				"/home/nikhil/CP/CodeForces/818/D.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.pp",
+				"/home/nikhil/CP/CodeForces/818/A.cpp",
+				"/home/nikhil/.ssh/config",
+				"/home/nikhil/Downloads/p685.t2.in",
+				"/home/nikhil/CP/CodeForces/812/C.cpp",
+				"/home/nikhil/Desktop/DSA/Lab7/sol.cpp",
+				"/home/nikhil/Desktop/segtree.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/F.cpp",
+				"/home/nikhil/CP/CodeChef/JULY16/WORKCHEF.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/D.cpp",
+				"/home/nikhil/CP/FCP/CP2_C1/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB",
+				"/home/nikhil/CP/CodeForces/820/out",
+				"/home/nikhil/CP/CodeForces/820/in",
+				"/home/nikhil/CP/CodeForces/820/C.py",
+				"/home/nikhil/Downloads/p680.t20.in",
+				"/home/nikhil/CP/CodeForces/820/B.cpp",
+				"/home/nikhil/CP/CodeForces/820/A.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/brute.py",
+				"/home/nikhil/.cache/.fr-l48Cly/c.cpp",
+				"/home/nikhil/.cache/.fr-Yy9gNl/17KSC.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/in",
+				"/home/nikhil/Downloads/C-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/brute.py",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/out.old",
+				"/home/nikhil/Downloads/C-small-attempt1.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/main.cpp",
+				"/home/nikhil/Downloads/B-small-attempt1.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/main.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/brute.py",
+				"/home/nikhil/Downloads/B-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/main.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/in",
+				"/home/nikhil/Downloads/A-large (1).in",
+				"/home/nikhil/Downloads/A-large.in",
+				"/home/nikhil/Downloads/A-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/ut",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/in",
+				"/home/nikhil/CP/CodeForces/821/out",
+				"/home/nikhil/CP/CodeForces/821/in",
+				"/home/nikhil/CP/CodeForces/821/A.cpp"
 			],
 			"find":
 			{
@@ -1453,134 +1453,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"Cabs",
-					"cabs",
-					"cab",
-					"cabs",
-					"manage",
-					"= ",
-					"=",
-					"companies",
-					"Companies",
-					"companies",
-					"easy",
-					"| {{ user.company.name }}",
-					"bootstrap",
-					"bootstraap",
-					"Mallin",
-					"noti",
-					"$(",
-					"=",
-					"index",
-					"reverse",
+					"cout ",
+					"find",
+					"query",
+					"M.",
+					"&T, ",
+					"int",
 					",",
-					"zmdi-phone",
-					"></script>",
-					"time",
-					"></script>",
-					"<script src=\"",
-					"rel=\"",
-					"href=\"",
-					"err",
-					"td",
-					"h1",
-					"add",
-					"full",
-					".js",
-					"login",
-					"data",
-					".js\"",
-					"src=\"",
-					"static",
-					"rsub",
-					"media",
-					"pickup_",
-					"auth",
-					"Integer",
-					"int ",
-					"Int",
+					")]",
+					"code(",
+					"hash(",
+					"Q[i",
+					",",
+					"==",
+					"== '#'",
+					"cerr",
+					"update(",
+					"query",
+					"/;\",",
+					"n",
+					"A[",
+					"auto",
+					"ebceabazcd",
 					"int",
-					"th",
-					"static",
-					"app:",
-					" url",
-					"app",
-					"app:",
-					"static",
-					"sttaic",
-					"/app",
-					"<input",
-					"                                <input",
-					"<input",
-					"messages.",
-					"messages",
-					"message",
-					"register",
-					"placeholder",
-					"JSONResponse",
-					"JSON",
-					"JSONR",
-					"json",
-					"\"/",
-					"ect(\"/",
-					"<td>",
-					"input ",
-					"exsist",
-					"<input ",
-					"password",
-					"Password",
-					"login",
-					"%}",
-					"{% static",
-					"login",
-					"index",
-					"y",
-					" (",
-					" )",
-					"( ",
-					"←-",
-					" ←-",
-					"←-",
-					" )",
-					" ;",
-					"( ",
-					"←-",
-					" ←-",
-					"/",
-					"*",
 					"-",
-					"+",
-					" + ",
-					" - ",
-					"* ",
-					"*",
-					" /",
-					" , ",
-					" )",
-					"( ",
-					" .",
-					". ",
-					"←-",
-					"75",
-					"string bin",
-					"lli",
-					"x",
-					"mid",
-					"A[i]",
-					"A[i] ^ 1",
-					"0",
-					" >> ",
+					" ",
+					"+=",
+					") - ",
+					"upper_bound",
+					"cout",
+					"A[",
+					"A",
+					"L",
+					"#",
+					"MEDIAN",
+					"two == (c",
+					"insert(",
+					"endl",
+					"count",
+					"print",
+					"cout",
+					"1 -i",
+					"++",
+					"count",
+					"node ",
+					"print(",
+					"pii",
+					"105",
+					"}",
+					"39",
+					"S[i",
+					"i",
+					"lc",
 					"int",
-					"i_",
-					"i//2",
-					"C[",
-					"anscc",
-					"D",
-					"C.",
-					"D",
-					"<= rem",
-					"C.",
-					"anscc"
+					"to_integral",
+					"newb",
+					"new",
+					"/",
+					"//",
+					"2.718",
+					"to_integral",
+					"int",
+					"#cp",
+					"/ two",
+					"ans",
+					"mul",
+					"Decimal",
+					"ti",
+					"to_integral",
+					"to_integral_exact",
+					".to_integral()",
+					"rounding=ROUND_FLOOR",
+					"two",
+					"mul",
+					"ans",
+					"decimal.",
+					"ROUND_FLOOR",
+					"to_integral()",
+					"to_integral",
+					"int",
+					"A[",
+					"3 *",
+					"digits",
+					" ",
+					" 10",
+					"0 1",
+					" ",
+					"966",
+					"96609",
+					"284590",
+					"28459",
+					"2845",
+					"2818",
+					"718",
+					"return",
+					"|S|",
+					"$\\item",
+					":} ",
+					"\\end{itemize}",
+					"\\begin{itemize}",
+					":",
+					" \\\\",
+					"c",
+					"l",
+					"cout",
+					"lc",
+					";\n",
+					"void test",
+					"x",
+					"S[i]",
+					"S[",
+					"S(",
+					"A",
+					"u",
+					"int check",
+					"(f == n-1)",
+					"3 ",
+					"{",
+					"B[i]",
+					"npde",
+					"lli",
+					"Tm",
+					"T[",
+					"if(",
+					"if(S",
+					"//",
+					"if(S",
+					"if(",
+					"'#';"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1654,7 +1654,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -1681,10 +1681,14 @@
 			{
 				"height": 100.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 128.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1694,260 +1698,48 @@
 				"selected_items":
 				[
 					[
-						"models",
-						"internal/models.py"
+						"401ccpp",
+						"CodeForces/401/C.cpp"
 					],
 					[
-						"intaddcab",
-						"templates/internal/add_cab.html"
+						"prmq.cpp",
+						"CodeChef/JUNE17/PRMQ.cpp"
 					],
 					[
-						"intgroupshtml",
-						"templates/internal/groups.html"
+						"codecjul17phs",
+						"CodeChef/JULY17/PSHTTR.cpp"
 					],
 					[
-						"intviews",
-						"internal/views.py"
+						"spojh",
+						"SPOJ/HORRIBLE.cpp"
 					],
 					[
-						"views",
-						"app/views.py"
+						"ccjl17py",
+						"CodeChef/JULY17/EXPTREE.py"
 					],
 					[
-						"intbase",
-						"templates/internal/base.html"
+						"codecjul17ipc",
+						"CodeChef/JULY17/IPCTRAIN.cpp"
 					],
 					[
-						"settings",
-						"EMS/settings.py"
+						"ccj17prm",
+						"CodeChef/JUNE17/PRMQ.cpp"
 					],
 					[
-						"appmodels",
-						"app/models.py"
+						"cf787",
+						"CodeForces/787/A.cpp"
 					],
 					[
-						"appvies",
-						"app/views.py"
+						"cf811",
+						"CodeForces/811/A.cpp"
 					],
 					[
-						"intmodels",
-						"internal/models.py"
+						"ccsnkpa1",
+						"CodeChef/SNCKPA17/TEAMFORM.cpp"
 					],
 					[
-						"appadd_",
-						"templates/app/add_employee.html"
-					],
-					[
-						"intcompani",
-						"templates/internal/companies.html"
-					],
-					[
-						"intermodels",
-						"internal/models.py"
-					],
-					[
-						"appindex",
-						"templates/app/index.html"
-					],
-					[
-						"interlbase",
-						"templates/internal/base.html"
-					],
-					[
-						"inteviews",
-						"internal/views.py"
-					],
-					[
-						"internalurls",
-						"internal/urls.py"
-					],
-					[
-						"appurls",
-						"app/urls.py"
-					],
-					[
-						"appyrls",
-						"static/vendors/bower_components/material-design-iconic-font/svg/2.1/01 - web application/refresh-sync-alert.svg"
-					],
-					[
-						"apviews",
-						"app/views.py"
-					],
-					[
-						"interviews",
-						"internal/views.py"
-					],
-					[
-						"app.",
-						"static/js/app.js"
-					],
-					[
-						"combase",
-						"templates/common/base.html"
-					],
-					[
-						"inurls",
-						"internal/urls.py"
-					],
-					[
-						"intervies",
-						"internal/views.py"
-					],
-					[
-						"app",
-						"static/js/app.js"
-					],
-					[
-						"appviws",
-						"app/views.py"
-					],
-					[
-						"local",
-						"EMS/local_settings.py"
-					],
-					[
-						"edi",
-						"templates/app/edit_employee.html"
-					],
-					[
-						"intenindex",
-						"templates/internal/index_test.html"
-					],
-					[
-						"appresg",
-						"templates/app/register.html"
-					],
-					[
-						"jsapp.",
-						"static/js/app.js"
-					],
-					[
-						"appviews",
-						"app/views.py"
-					],
-					[
-						"registe",
-						"templates/app/register.html"
-					],
-					[
-						"applogin",
-						"templates/app/login.html"
-					],
-					[
-						"appbase",
-						"templates/app/base.html"
-					],
-					[
-						"commonbase",
-						"templates/common/base.html"
-					],
-					[
-						"appvi",
-						"app/views.py"
-					],
-					[
-						"apurls",
-						"app/urls.py"
-					],
-					[
-						"appmdoels",
-						"app/models.py"
-					],
-					[
-						"appur",
-						"app/urls.py"
-					],
-					[
-						"appvie",
-						"app/views.py"
-					],
-					[
-						"temcombas",
-						"templates/common/base.html"
-					],
-					[
-						"sett",
-						"EMS/settings.py"
-					],
-					[
-						"models.p",
-						"app/models.py"
-					],
-					[
-						"temappadd",
-						"templates/app/add_test.html"
-					],
-					[
-						"urls",
-						"internal/urls.py"
-					],
-					[
-						"mdels",
-						"app/models.py"
-					],
-					[
-						"inetrnallogin",
-						"templates/internal/login.html"
-					],
-					[
-						"internviews",
-						"internal/views.py"
-					],
-					[
-						"templindex.html",
-						"app/templates/index_test.html"
-					],
-					[
-						"views.",
-						"app/views.py"
-					],
-					[
-						"index",
-						"static/vendors/bower_components/simpleWeather/index.html"
-					],
-					[
-						"settin",
-						"EMS/settings.py"
-					],
-					[
-						"regihtml",
-						"app/templates/register_test.html"
-					],
-					[
-						"regis",
-						"app/templates/register.html"
-					],
-					[
-						"login",
-						"app/templates/login_test.html"
-					],
-					[
-						"loginhtml",
-						"app/templates/login.html"
-					],
-					[
-						"login.",
-						"app/templates/login.html"
-					],
-					[
-						"set",
-						"EMS/settings.py"
-					],
-					[
-						"req",
-						"requirements.txt"
-					],
-					[
-						"ur.s",
-						"EMS/urls.py"
-					],
-					[
-						"setting",
-						"EMS/settings.py"
-					],
-					[
-						"re",
-						"requirements.txt"
+						"fcpale",
+						"FCP/ALIEN.cpp"
 					],
 					[
 						"ccm17sw.cpp",
@@ -2038,8 +1830,20 @@
 						"myapp/templates/add.html"
 					],
 					[
+						"set",
+						"smahc/settings.py"
+					],
+					[
 						"view",
 						"myapp/views.py"
+					],
+					[
+						"urls",
+						"myapp/urls.py"
+					],
+					[
+						"index",
+						"myapp/templates/index.html"
 					],
 					[
 						"model",
@@ -2096,6 +1900,10 @@
 					[
 						"lecscemodel",
 						"lectureSchedule/models.py"
+					],
+					[
+						"models",
+						"workallocation/models.py"
 					],
 					[
 						"lecschedurls",
@@ -2166,6 +1974,10 @@
 						"static/dist/js/myJs.js"
 					],
 					[
+						"settin",
+						"vmcPortal/settings.py"
+					],
+					[
 						"calen",
 						"vmcPortal/calender.py"
 					],
@@ -2204,6 +2016,198 @@
 					[
 						"cale",
 						"vmcPortal/calender.py"
+					],
+					[
+						"tasks",
+						"teacher/tasks.py"
+					],
+					[
+						"taska",
+						"templates/workAllocation/addwork.html"
+					],
+					[
+						"studentmodels",
+						"students/models.py"
+					],
+					[
+						"schedmodel",
+						"lectureSchedule/models.py"
+					],
+					[
+						"sched2.",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"sche",
+						"templates/lectureSchedule/schedules.html"
+					],
+					[
+						"shced",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"workrep",
+						"templates/vmcPortal/adminHomeWorkReport.html"
+					],
+					[
+						"teachmodel",
+						"teacher/models.py"
+					],
+					[
+						"timestamp",
+						"templates/vmcPortal/userTimeStampsFromTo.html"
+					],
+					[
+						"all",
+						"templates/vmcPortal/allLectures.html"
+					],
+					[
+						"month",
+						"templates/vmcPortal/monthlyUserStatus.html"
+					],
+					[
+						"gazhtm",
+						"templates/vmcPortal/gazettedHolidays.html"
+					],
+					[
+						"vmcview",
+						"vmcPortal/views.py"
+					],
+					[
+						"my",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"vmcviews",
+						"vmcPortal/views.py"
+					],
+					[
+						"dail",
+						"templates/vmcPortal/dailyUserStatus.html"
+					],
+					[
+						"mys",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"leavepointsrecordsmonthyear",
+						"templates/vmcPortal/leavePointsRecordsMonthYear.html"
+					],
+					[
+						"bae",
+						"templates/base.html"
+					],
+					[
+						"admin",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"adminhomete",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"teamview",
+						"team/views.py"
+					],
+					[
+						"bas",
+						"templates/base.html"
+					],
+					[
+						"teachmod",
+						"teacher/models.py"
+					],
+					[
+						"lecmodesl",
+						"lectureSchedule/models.py"
+					],
+					[
+						"recent",
+						"templates/lectureSchedule/groupRecentLecture.html"
+					],
+					[
+						"lecsceurl",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"vi",
+						"vmcPortal/views.py"
+					],
+					[
+						"slotsta",
+						"templates/lectureSchedule/slotStatus.html"
+					],
+					[
+						"lecurls",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"lecvie",
+						"lectureSchedule/views.py"
+					],
+					[
+						"teacmodel",
+						"teacher/models.py"
+					],
+					[
+						"tas",
+						"teacher/tasks.py"
+					],
+					[
+						"req",
+						"requirements.txt"
+					],
+					[
+						"task",
+						"teacher/tasks.py"
+					],
+					[
+						"work/mo",
+						"workallocation/models.py"
+					],
+					[
+						"sett",
+						"vmcPortal/settings.py"
+					],
+					[
+						"teacehr",
+						"templates/teacher/teacher.html"
+					],
+					[
+						"views",
+						"vmcPortal/views.py"
+					],
+					[
+						"setting",
+						"vmcPortal/settings.py"
+					],
+					[
+						"mode",
+						"team/models.py"
+					],
+					[
+						"teacher/model",
+						"teacher/models.py"
+					],
+					[
+						"se",
+						"smahc/settings.py"
+					],
+					[
+						"inve",
+						"myapp/templates/inventory.html"
+					],
+					[
+						"inde",
+						"myapp/templates/index.html"
+					],
+					[
+						"mdoe",
+						"myapp/models.py"
+					],
+					[
+						"style",
+						"staticfiles/myapp/css/style.css"
 					]
 				],
 				"width": 0.0
@@ -2211,32 +2215,28 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "cp",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"cp",
-						"~/.sublime-projects/CP.sublime-project"
+						"ems",
+						"~/.sublime-projects/EMS.sublime-project"
+					],
+					[
+						"das",
+						"~/.sublime-projects/DSA.sublime-project"
 					],
 					[
 						"",
 						"~/.sublime-projects/DSA.sublime-project"
-					],
-					[
-						"dsa",
-						"~/.sublime-projects/DSA.sublime-project"
-					],
-					[
-						"bte",
-						"~/.sublime-projects/bteproject.sublime-project"
 					]
 				],
 				"width": 380.0
 			},
 			"select_symbol":
 			{
-				"height": 45.0,
-				"last_filter": "",
+				"height": 339.0,
+				"last_filter": "merge",
 				"selected_items":
 				[
 					[
@@ -2280,9 +2280,9 @@
 						"maxxor"
 					]
 				],
-				"width": 674.0
+				"width": 374.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
@@ -2302,144 +2302,92 @@
 				"selected_items":
 				[
 					[
-						"H",
-						"HttpResponse"
+						"M",
+						"MAX_N"
 					],
 					[
-						"drive",
-						"driver_number"
+						"clock",
+						"clock_t"
 					],
 					[
-						"driver",
-						"driver_number"
+						"tree_",
+						"tree_query"
 					],
 					[
-						"car",
-						"car_model"
+						"s",
+						"skeleton\tskeleton"
 					],
 					[
-						"re",
-						"request"
+						"mind",
+						"min_index"
 					],
 					[
-						"emp",
-						"employee_set"
+						"min",
+						"min_index"
 					],
 					[
-						"em",
-						"emp_id"
-					],
-					[
-						"Emp",
-						"Employee"
-					],
-					[
-						"fg-l",
-						"fg-float"
-					],
-					[
-						"co",
-						"col-md-offset-1"
-					],
-					[
-						"logo",
-						"logo_link"
-					],
-					[
-						"car_",
-						"car_model"
-					],
-					[
-						"ap",
-						"api_view"
-					],
-					[
-						"com",
-						"company"
-					],
-					[
-						"has",
-						"has_company"
-					],
-					[
-						"BA",
-						"BASE_DIR"
-					],
-					[
-						"name",
-						"namespace"
-					],
-					[
-						"regi",
-						"register_form"
-					],
-					[
-						"ex",
-						"extra_tags"
+						"c",
+						"class\tclass-..-(class)"
 					],
 					[
 						"me",
-						"messages"
+						"median"
 					],
 					[
-						"per",
-						"permission_classes"
+						"mean",
+						"MEDIAN"
 					],
 					[
-						"Js",
-						"JsonResponse"
+						"b_",
+						"b_query"
 					],
 					[
-						"is",
-						"is_valid"
+						"b",
+						"birdsitup"
 					],
 					[
-						"Em",
-						"Employee"
+						"add",
+						"addacorn"
 					],
 					[
-						"phone",
-						"phone_number"
+						"h",
+						"hopcroftKarp"
 					],
 					[
-						"JSONR",
-						"JSONResponse"
+						"ma",
+						"MAX_N"
 					],
 					[
-						"Cm",
-						"CompanySerializer"
+						"i",
+						"i"
 					],
 					[
-						"pho",
-						"phone_number"
+						"next",
+						"next_r"
 					],
 					[
-						"comp",
-						"company"
+						"go",
+						"goR"
 					],
 					[
-						"new",
-						"new_comp"
+						"swap",
+						"swapLR"
 					],
 					[
-						"Com",
-						"Company"
+						"max",
+						"max_suf"
 					],
 					[
-						"Ca",
-						"CharField"
+						"max_",
+						"max_suf"
 					],
 					[
-						"HR",
-						"HttpResponseRedirect"
+						"mx",
+						"max_pre"
 					],
 					[
-						"HT",
-						"HttpResponseRedirect"
-					],
-					[
-						"Ht",
-						"HttpResponse"
+						"mxa",
+						"max_sum"
 					],
 					[
 						"get",
@@ -2447,10 +2395,6 @@
 					],
 					[
 						"Add",
-						"AddEdge"
-					],
-					[
-						"add",
 						"AddEdge"
 					],
 					[
@@ -2462,16 +2406,12 @@
 						"upper_bound"
 					],
 					[
-						"max",
-						"max_p"
-					],
-					[
 						"pr",
 						"price_sort"
 					],
 					[
-						"min",
-						"min_ans"
+						"has",
+						"has_pos"
 					],
 					[
 						"is_",
@@ -2498,10 +2438,6 @@
 						"X"
 					],
 					[
-						"i",
-						"if\tIf Condition"
-					],
-					[
 						"cat",
 						"cat_m"
 					],
@@ -2526,16 +2462,8 @@
 						"child_best"
 					],
 					[
-						"c",
-						"child"
-					],
-					[
 						"p",
 						"pyplot"
-					],
-					[
-						"s",
-						"square"
 					],
 					[
 						"n",
@@ -2582,6 +2510,10 @@
 						"undergrad_info"
 					],
 					[
+						"ap",
+						"append"
+					],
+					[
 						"e",
 						"enrollment_number"
 					],
@@ -2616,10 +2548,6 @@
 					[
 						"de",
 						"default"
-					],
-					[
-						"b",
-						"beginend\t$1.begin(), $1.end()"
 					],
 					[
 						"subjc",
@@ -2664,6 +2592,10 @@
 					[
 						"sce",
 						"schedule"
+					],
+					[
+						"new",
+						"new_event"
 					],
 					[
 						"at",
@@ -2734,8 +2666,16 @@
 						"quantity_change"
 					],
 					[
+						"is",
+						"is_authenticated"
+					],
+					[
 						"user",
 						"user"
+					],
+					[
+						"re",
+						"request"
 					],
 					[
 						"err",
@@ -2817,6 +2757,15 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/nikhil/.config/sublime-text-3/Packages/User/skeleton.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 713,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "Packages/C++/C++ Single File.sublime-build",
 			"build_system_choices":
@@ -2838,7 +2787,7 @@
 					],
 					[
 						"Packages/C++/C++ Single File.sublime-build",
-						"IO"
+						""
 					]
 				],
 				[
@@ -3160,6 +3109,46 @@
 				[
 					[
 						[
+							"Packages/Python/Python Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"IO"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/Python/Python.sublime-build",
 							""
 						],
@@ -3170,7 +3159,7 @@
 					],
 					[
 						"Packages/Python/Python.sublime-build",
-						"Syntax Check"
+						""
 					]
 				],
 				[
@@ -3197,49 +3186,69 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "close ",
+				"height": 213.0,
+				"last_filter": "snipper",
 				"selected_items":
 				[
 					[
-						"close ",
-						"Project: Close"
-					],
-					[
-						"lcose",
-						"File: Close All"
-					],
-					[
-						"wr",
-						"Word Wrap: Toggle"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"list ",
-						"Package Control: List Packages"
+						"snipper",
+						"SnippetMaker: Edit Snippet"
 					],
 					[
 						"close",
 						"Project: Close"
 					],
 					[
-						"project ",
-						"Project: Save As"
+						"snippetes ",
+						"SnippetMaker: Edit Snippet"
 					],
 					[
-						"C++",
-						"Set Syntax: C++"
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"close ",
+						"Project: Close"
+					],
+					[
+						"clos ",
+						"Project: Close"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"proj clo",
+						"Project: Close"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"pytho",
+						"Set Syntax: Python"
+					],
+					[
+						"late",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
 					],
 					[
 						"proj close",
 						"Project: Close"
 					],
 					[
-						"python",
-						"Set Syntax: Python"
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
 					],
 					[
 						"clo",
@@ -3267,10 +3276,6 @@
 					],
 					[
 						"c+",
-						"Set Syntax: C++"
-					],
-					[
-						"c++",
 						"Set Syntax: C++"
 					],
 					[
@@ -3348,10 +3353,6 @@
 					[
 						"h",
 						"Hex Viewer: Toggle Hex View"
-					],
-					[
-						"snipper",
-						"Snippet: Vector For Loop"
 					],
 					[
 						"py",
@@ -3438,6 +3439,10 @@
 						"Snippet: Function"
 					],
 					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
 						"pyt",
 						"Set Syntax: Python"
 					],
@@ -3464,10 +3469,6 @@
 					[
 						"insta",
 						"Package Control: Install Package"
-					],
-					[
-						"late",
-						"Set Syntax: LaTeX"
 					],
 					[
 						"c",
@@ -3498,7 +3499,7 @@
 						"LaTeXTools: View package documentation"
 					]
 				],
-				"width": 584.0
+				"width": 437.0
 			},
 			"console":
 			{
@@ -3518,136 +3519,140 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/nikhil/CP"
+			],
 			"file_history":
 			[
-				"/home/nikhil/Desktop/EMS/internal/views.py",
-				"/home/nikhil/Desktop/EMS/internal/urls.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/add_group.html",
-				"/home/nikhil/Desktop/EMS/templates/app/index.html",
-				"/home/nikhil/Desktop/EMS/internal/models.py",
-				"/home/nikhil/Desktop/EMS/app/models.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/add_cab.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/add_grpu[.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/groups.html",
-				"/home/nikhil/Desktop/EMS/app/views.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/base.html",
-				"/home/nikhil/Desktop/cid.csv",
-				"/home/nikhil/Desktop/EMS/EMS/settings.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/cabs.html",
-				"/home/nikhil/Desktop/EMS/templates/app/add_employee.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/companies.html",
-				"/home/nikhil/Desktop/EMS/internal/admin.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/view_company.html",
-				"/home/nikhil/Desktop/EMS/templates/internal/index.html",
-				"/home/nikhil/Desktop/EMS/app/urls.py",
-				"/home/nikhil/Desktop/EMS/static/vendors/bower_components/material-design-iconic-font/svg/2.1/01 - web application/refresh-sync-alert.svg",
-				"/home/nikhil/Desktop/EMS/static/js/app.js",
-				"/home/nikhil/Desktop/jQuery/light/full/js/app.js",
-				"/home/nikhil/Desktop/EMS/templates/common/base.html",
-				"/home/nikhil/Desktop/EMS/templates/app/edit_employee.html",
-				"/home/nikhil/Desktop/EMS/EMS/local_settings.py",
-				"/home/nikhil/Desktop/EMS/templates/internal/index_test.html",
-				"/home/nikhil/Desktop/EMS/templates/app/add_test.html",
-				"/home/nikhil/Desktop/EMS/templates/app/register.html",
-				"/home/nikhil/Desktop/jQuery/light/seed/js/app.js",
-				"/home/nikhil/Desktop/EMS/templates/app/login.html",
-				"/home/nikhil/Desktop/EMS/templates/app/base.html",
-				"/home/nikhil/Desktop/EMS/templates/app/index_test.html",
-				"/home/nikhil/Pictures/untitled",
-				"/home/nikhil/CP/CodeChef/JUNE17/UNIONSET.cpp",
-				"/home/nikhil/Desktop/MTR17/L1_ECE/sol.c",
-				"/home/nikhil/Desktop/DSA-Summer17-Labs/MS_2.cpp",
-				"/home/nikhil/Desktop/DSA-Summer17-Labs/MS_2(alt).cpp",
-				"/home/nikhil/Desktop/DSA/Lab6/sol.cpp",
-				"/tmp/rsub-62gbsm/local_settings.py",
-				"/tmp/rsub-0f_xwc/requirements.txt",
-				"/home/nikhil/Desktop/EMS/.gitignore",
-				"/tmp/rsub-z3fpj5/settings.py",
+				"/home/nikhil/CP/CodeForces/455/A.cpp",
+				"/home/nikhil/CP/CodeForces/479/C.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.cpp",
+				"/home/nikhil/CP/CodeForces/100722/out",
+				"/home/nikhil/CP/CodeForces/100722/in",
+				"/home/nikhil/CP/CodeForces/100722/B.py",
+				"/home/nikhil/CP/CodeForces/100722/C.cpp",
+				"/home/nikhil/CP/CodeForces/100722/F.cpp",
+				"/home/nikhil/CP/CodeForces/401/C.py",
+				"/home/nikhil/CP/CodeForces/466/out",
+				"/home/nikhil/CP/CodeForces/466/in",
+				"/home/nikhil/CP/CodeForces/466/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/out",
+				"/home/nikhil/CP/CodeForces/831/in",
+				"/home/nikhil/CP/CodeForces/831/C.cpp",
+				"/home/nikhil/CP/CodeForces/831/E.cpp",
+				"/home/nikhil/CP/CodeForces/831/B.cpp",
+				"/home/nikhil/CP/CodeForces/831/A.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/TWOCOINS.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/in",
+				"/home/nikhil/CP/CodeChef/JUNE17/PRMQ.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/out",
 				"/home/nikhil/.bashrc",
-				"/tmp/rsub-r0wjcy/runtime.txt",
-				"/home/nikhil/Desktop/EMS/app/api_views.py",
-				"/home/nikhil/Desktop/EMS/app/admin.py",
-				"/home/nikhil/Desktop/taro/EMS/templates/app/index_test.html",
-				"/home/nikhil/Desktop/taro/EMS/app/urls.py",
-				"/home/nikhil/Downloads/DSA_SummerLab6.java",
-				"/home/nikhil/Desktop/DSA/Lab6/1.out",
-				"/home/nikhil/Desktop/taro/EMS/app/models.py",
-				"/home/nikhil/Desktop/taro/EMS/internal/views.py",
-				"/home/nikhil/Desktop/taro/EMS/internal/urls.py",
-				"/home/nikhil/Desktop/taro/EMS/templates/internal/view_company_test.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/internal/index_test.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/internal/login.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/app/login.html",
-				"/home/nikhil/Desktop/taro/EMS/templates/app/register.html",
-				"/home/nikhil/Desktop/taro/EMS/app/utils.py",
-				"/home/nikhil/Desktop/taro/EMS/app/views.py",
-				"/home/nikhil/Desktop/taro/EMS/EMS/settings.py",
-				"/home/nikhil/Desktop/taro/EMS/.gitignore",
-				"/home/nikhil/Desktop/taro/EMS/internal/templates/login.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/login.html",
-				"/home/nikhil/Desktop/taro/EMS/EMS/urls.py",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/index_test.html",
-				"/home/nikhil/Desktop/taro/EMS/static/vendors/bower_components/simpleWeather/index.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/register_test.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/login_test.html",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/register.html",
-				"/home/nikhil/Desktop/taro/solution.cpp",
-				"/home/nikhil/Desktop/DSA-Summer17-Labs/L3.cpp",
-				"/home/nikhil/Desktop/DSA/Lab3/solution.cpp",
-				"/home/nikhil/Desktop/DSA/Lab2/solution.cpp",
-				"/home/nikhil/Desktop/DSA/Lab4/sol.cpp",
-				"/home/nikhil/Desktop/taro/EMS/requirements.txt",
-				"/home/nikhil/Desktop/taro/EMS/app/serializers.py",
-				"/home/nikhil/Desktop/taro/EMS/mytest.py",
-				"/home/nikhil/Desktop/taro/EMS/mytest",
-				"/home/nikhil/Desktop/taro/EMS/app/templates/add_test.html",
-				"/home/nikhil/Desktop/rest/proj/app/bookreview/serializers.py",
-				"/home/nikhil/Desktop/taro/EMS/Procfile",
-				"/home/nikhil/CP/CodeForces/810/out",
-				"/home/nikhil/CP/CodeForces/810/in",
-				"/home/nikhil/CP/CodeForces/810/C.cpp",
-				"/home/nikhil/CP/CodeForces/810/B.cpp",
-				"/home/nikhil/CP/CodeForces/810/A.py",
-				"/home/nikhil/CP/CodeChef/SNCKQL17/SNAKPROC.cpp",
-				"/home/nikhil/CP/CodeChef/SNCKQL17/out",
-				"/home/nikhil/CP/CodeChef/SNCKQL17/in",
-				"/home/nikhil/CP/CodeForces/101128/out",
-				"/home/nikhil/CP/CodeForces/101128/in",
-				"/home/nikhil/Library/GPD1.cpp",
-				"/home/nikhil/Library/GPD.cpp",
-				"/home/nikhil/CP/CodeForces/101128/F.cpp",
-				"/home/nikhil/CP/CodeForces/101128/J.cpp",
-				"/home/nikhil/CP/CodeForces/101128/H.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/SANDWICH.cpp",
-				"/home/nikhil/CP/SPOJ/CTRICK.cpp",
-				"/home/nikhil/CP/SPOJ/in",
-				"/home/nikhil/CP/SPOJ/out",
+				"/home/nikhil/.config/sublime-text-3/Packages/User/skeleton.sublime-snippet",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.py",
+				"/home/nikhil/CP/CodeChef/JULY17/EXPTREE.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/PSHTTR.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/gen.py",
+				"/home/nikhil/CP/CodeForces/828/out",
+				"/home/nikhil/CP/CodeForces/828/in",
+				"/home/nikhil/CP/CodeForces/828/D.cpp",
+				"/home/nikhil/CP/CodeForces/828/A.cpp",
+				"/home/nikhil/CP/CodeForces/828/C.cpp",
+				"/home/nikhil/CP/CodeForces/828/B.cpp",
+				"/home/nikhil/.config/sublime-text-3/Packages/C++/C++ Single File.sublime-build",
+				"/home/nikhil/CP/CodeForces/489/C.cpp",
+				"/home/nikhil/CP/.build/C.cpp",
+				"/home/nikhil/CP/CodeForces/389/B.cpp",
+				"/home/nikhil/CP/CodeForces/373/A.py",
+				"/home/nikhil/CP/CodeForces/384/A.cpp",
+				"/home/nikhil/CP/CodeForces/384/A.py",
+				"/home/nikhil/CP/CodeForces/69/A.cpp",
+				"/home/nikhil/CP/CodeForces/443/A.py",
+				"/home/nikhil/CP/CodeForces/443/A.cpp",
+				"/home/nikhil/Downloads/C.cpp",
+				"/home/nikhil/Downloads/p552.t1.P1.run769264.team5463.out",
+				"/home/nikhil/Downloads/p552.t1.in",
+				"/home/nikhil/CP/CodeChef/JULY17/out.stack",
+				"/usr/include/c++/5/bits/unordered_map.h",
+				"/home/nikhil/Desktop/gen.py",
 				"/home/nikhil/CP/SPOJ/HORRIBLE.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/out",
-				"/home/nikhil/CP/CodeChef/MAY17/in",
-				"/home/nikhil/CP/CodeChef/MAY17/GPD.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/GPD",
-				"/home/nikhil/CP/AtCoder/abc061/out",
-				"/home/nikhil/CP/AtCoder/abc061/in",
-				"/home/nikhil/CP/CodeForces/794/C.cpp",
-				"/home/nikhil/CP/CodeForces/794/C.py",
-				"/home/nikhil/CP/AtCoder/abc061/A.cpp",
-				"/home/nikhil/CP/AtCoder/abc061/B.cpp",
-				"/home/nikhil/CP/AtCoder/abc061/C.cpp",
-				"/home/nikhil/CP/AtCoder/abc061/D.cpp",
-				"/home/nikhil/CP/CodeForces/794/out",
-				"/home/nikhil/CP/CodeForces/794/in",
-				"/home/nikhil/CP/CodeForces/794/B.cpp",
-				"/home/nikhil/CP/CodeForces/794/A.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/CHEFSUBA.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/WSITES01.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.py",
+				"/home/nikhil/CP/CodeChef/JULY17/CHEFSIGN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/IPCTRAIN.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/CALC.cpp",
+				"/home/nikhil/CP/CodeChef/JULY17/NITIKA.py",
+				"/home/nikhil/Desktop/abc.py",
+				"/home/nikhil/CP/.build/abc",
+				"/home/nikhil/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/nikhil/Desktop/test.py",
 				"/home/nikhil/Desktop/test.cpp",
-				"/home/nikhil/CP/CodeForces/799/out",
-				"/home/nikhil/CP/CodeForces/799/in",
-				"/home/nikhil/CP/CodeForces/799/C.cpp",
-				"/home/nikhil/CP/CodeForces/799/A.cpp",
-				"/home/nikhil/CP/CodeForces/799/B.cpp",
-				"/home/nikhil/CP/CodeChef/MAY17/CHEFROUT.py"
+				"/home/nikhil/CP/.gitignore",
+				"/home/nikhil/CP/.build/test.cpp",
+				"/home/nikhil/CP/CodeForces/822/in",
+				"/home/nikhil/CP/CodeForces/822/out",
+				"/home/nikhil/CP/CodeForces/822/A.py",
+				"/home/nikhil/CP/CodeForces/822/D.cpp",
+				"/home/nikhil/CP/CodeForces/822/C.cpp",
+				"/home/nikhil/CP/CodeForces/822/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/out",
+				"/home/nikhil/CP/FCP/CP1_17PB/in",
+				"/home/nikhil/Desktop/abc/test.py",
+				"/home/nikhil/Downloads/p104.t1.in",
+				"/home/nikhil/CP/FCP/CP1_17PB/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/out",
+				"/home/nikhil/CP/CodeForces/818/in",
+				"/home/nikhil/CP/CodeForces/818/B.cpp",
+				"/home/nikhil/CP/CodeForces/818/D.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.cpp",
+				"/home/nikhil/CP/CodeForces/818/C.pp",
+				"/home/nikhil/CP/CodeForces/818/A.cpp",
+				"/home/nikhil/.ssh/config",
+				"/home/nikhil/Downloads/p685.t2.in",
+				"/home/nikhil/CP/CodeForces/812/C.cpp",
+				"/home/nikhil/Desktop/DSA/Lab7/sol.cpp",
+				"/home/nikhil/Desktop/segtree.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/F.cpp",
+				"/home/nikhil/CP/CodeChef/JULY16/WORKCHEF.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/D.cpp",
+				"/home/nikhil/CP/FCP/CP2_C1/A.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB/B.cpp",
+				"/home/nikhil/CP/FCP/CP1_17PB",
+				"/home/nikhil/CP/CodeForces/820/out",
+				"/home/nikhil/CP/CodeForces/820/in",
+				"/home/nikhil/CP/CodeForces/820/C.py",
+				"/home/nikhil/Downloads/p680.t20.in",
+				"/home/nikhil/CP/CodeForces/820/B.cpp",
+				"/home/nikhil/CP/CodeForces/820/A.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/D/brute.py",
+				"/home/nikhil/.cache/.fr-l48Cly/c.cpp",
+				"/home/nikhil/.cache/.fr-Yy9gNl/17KSC.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/in",
+				"/home/nikhil/Downloads/C-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/brute.py",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/out.old",
+				"/home/nikhil/Downloads/C-small-attempt1.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/C/main.cpp",
+				"/home/nikhil/Downloads/B-small-attempt1.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/main.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/B/brute.py",
+				"/home/nikhil/Downloads/B-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/main.cpp",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/out",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/in",
+				"/home/nikhil/Downloads/A-large (1).in",
+				"/home/nikhil/Downloads/A-large.in",
+				"/home/nikhil/Downloads/A-small-attempt0.in",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/A/ut",
+				"/home/nikhil/CP/Google/Kickstart 2017/Round C/in",
+				"/home/nikhil/CP/CodeForces/821/out",
+				"/home/nikhil/CP/CodeForces/821/in",
+				"/home/nikhil/CP/CodeForces/821/A.cpp"
 			],
 			"find":
 			{
@@ -3666,134 +3671,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"th",
-					"Cabs",
-					"cabs",
-					"cab",
-					"cabs",
-					"manage",
-					"= ",
-					"=",
-					"companies",
-					"Companies",
-					"companies",
-					"easy",
-					"| {{ user.company.name }}",
-					"bootstrap",
-					"bootstraap",
-					"Mallin",
-					"noti",
-					"$(",
-					"=",
-					"index",
-					"reverse",
+					"cout ",
+					"find",
+					"query",
+					"M.",
+					"&T, ",
+					"int",
 					",",
-					"zmdi-phone",
-					"></script>",
-					"time",
-					"></script>",
-					"<script src=\"",
-					"rel=\"",
-					"href=\"",
-					"err",
-					"td",
-					"h1",
-					"add",
-					"full",
-					".js",
-					"login",
-					"data",
-					".js\"",
-					"src=\"",
-					"static",
-					"rsub",
-					"media",
-					"pickup_",
-					"auth",
-					"Integer",
-					"int ",
-					"Int",
+					")]",
+					"code(",
+					"hash(",
+					"Q[i",
+					",",
+					"==",
+					"== '#'",
+					"cerr",
+					"update(",
+					"query",
+					"/;\",",
+					"n",
+					"A[",
+					"auto",
+					"ebceabazcd",
 					"int",
-					"th",
-					"static",
-					"app:",
-					" url",
-					"app",
-					"app:",
-					"static",
-					"sttaic",
-					"/app",
-					"<input",
-					"                                <input",
-					"<input",
-					"messages.",
-					"messages",
-					"message",
-					"register",
-					"placeholder",
-					"JSONResponse",
-					"JSON",
-					"JSONR",
-					"json",
-					"\"/",
-					"ect(\"/",
-					"<td>",
-					"input ",
-					"exsist",
-					"<input ",
-					"password",
-					"Password",
-					"login",
-					"%}",
-					"{% static",
-					"login",
-					"index",
-					"y",
-					" (",
-					" )",
-					"( ",
-					"←-",
-					" ←-",
-					"←-",
-					" )",
-					" ;",
-					"( ",
-					"←-",
-					" ←-",
-					"/",
-					"*",
 					"-",
-					"+",
-					" + ",
-					" - ",
-					"* ",
-					"*",
-					" /",
-					" , ",
-					" )",
-					"( ",
-					" .",
-					". ",
-					"←-",
-					"75",
-					"string bin",
-					"lli",
-					"x",
-					"mid",
-					"A[i]",
-					"A[i] ^ 1",
-					"0",
-					" >> ",
+					" ",
+					"+=",
+					") - ",
+					"upper_bound",
+					"cout",
+					"A[",
+					"A",
+					"L",
+					"#",
+					"MEDIAN",
+					"two == (c",
+					"insert(",
+					"endl",
+					"count",
+					"print",
+					"cout",
+					"1 -i",
+					"++",
+					"count",
+					"node ",
+					"print(",
+					"pii",
+					"105",
+					"}",
+					"39",
+					"S[i",
+					"i",
+					"lc",
 					"int",
-					"i_",
-					"i//2",
-					"C[",
-					"anscc",
-					"D",
-					"C.",
-					"D",
-					"<= rem",
-					"C."
+					"to_integral",
+					"newb",
+					"new",
+					"/",
+					"//",
+					"2.718",
+					"to_integral",
+					"int",
+					"#cp",
+					"/ two",
+					"ans",
+					"mul",
+					"Decimal",
+					"ti",
+					"to_integral",
+					"to_integral_exact",
+					".to_integral()",
+					"rounding=ROUND_FLOOR",
+					"two",
+					"mul",
+					"ans",
+					"decimal.",
+					"ROUND_FLOOR",
+					"to_integral()",
+					"to_integral",
+					"int",
+					"A[",
+					"3 *",
+					"digits",
+					" ",
+					" 10",
+					"0 1",
+					" ",
+					"966",
+					"96609",
+					"284590",
+					"28459",
+					"2845",
+					"2818",
+					"718",
+					"return",
+					"|S|",
+					"$\\item",
+					":} ",
+					"\\end{itemize}",
+					"\\begin{itemize}",
+					":",
+					" \\\\",
+					"c",
+					"l",
+					"cout",
+					"lc",
+					";\n",
+					"void test",
+					"x",
+					"S[i]",
+					"S[",
+					"S(",
+					"A",
+					"u",
+					"int check",
+					"(f == n-1)",
+					"3 ",
+					"{",
+					"B[i]",
+					"npde",
+					"lli",
+					"Tm",
+					"T[",
+					"if(",
+					"if(S",
+					"//",
+					"if(S",
+					"if(",
+					"'#';"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3868,6 +3873,48 @@
 			"groups":
 			[
 				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/nikhil/.config/sublime-text-3/Packages/User/skeleton.sublime-snippet",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 713,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										351,
+										351
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				},
+				{
 					"sheets":
 					[
 					]
@@ -3875,7 +3922,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -3889,17 +3936,31 @@
 						0,
 						0,
 						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
 						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
+					0.5,
 					1.0
 				]
 			},
@@ -3924,12 +3985,16 @@
 			{
 				"height": 100.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 128.0
+			},
 			"pinned_build_system": "",
 			"position": "0,1,0,0,0,0,0,0,0,1366,768",
-			"project": "",
+			"project": "CP.sublime-project",
 			"replace":
 			{
-				"height": 54.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3939,260 +4004,48 @@
 				"selected_items":
 				[
 					[
-						"appmodels",
-						"app/models.py"
+						"401ccpp",
+						"CodeForces/401/C.cpp"
 					],
 					[
-						"appindex",
-						"templates/app/index.html"
+						"prmq.cpp",
+						"CodeChef/JUNE17/PRMQ.cpp"
 					],
 					[
-						"models",
-						"internal/models.py"
+						"codecjul17phs",
+						"CodeChef/JULY17/PSHTTR.cpp"
 					],
 					[
-						"intaddcab",
-						"templates/internal/add_cab.html"
+						"spojh",
+						"SPOJ/HORRIBLE.cpp"
 					],
 					[
-						"intgroupshtml",
-						"templates/internal/groups.html"
+						"ccjl17py",
+						"CodeChef/JULY17/EXPTREE.py"
 					],
 					[
-						"intviews",
-						"internal/views.py"
+						"codecjul17ipc",
+						"CodeChef/JULY17/IPCTRAIN.cpp"
 					],
 					[
-						"views",
-						"app/views.py"
+						"ccj17prm",
+						"CodeChef/JUNE17/PRMQ.cpp"
 					],
 					[
-						"intbase",
-						"templates/internal/base.html"
+						"cf787",
+						"CodeForces/787/A.cpp"
 					],
 					[
-						"settings",
-						"EMS/settings.py"
+						"cf811",
+						"CodeForces/811/A.cpp"
 					],
 					[
-						"appvies",
-						"app/views.py"
+						"ccsnkpa1",
+						"CodeChef/SNCKPA17/TEAMFORM.cpp"
 					],
 					[
-						"intmodels",
-						"internal/models.py"
-					],
-					[
-						"appadd_",
-						"templates/app/add_employee.html"
-					],
-					[
-						"intcompani",
-						"templates/internal/companies.html"
-					],
-					[
-						"intermodels",
-						"internal/models.py"
-					],
-					[
-						"interlbase",
-						"templates/internal/base.html"
-					],
-					[
-						"inteviews",
-						"internal/views.py"
-					],
-					[
-						"internalurls",
-						"internal/urls.py"
-					],
-					[
-						"appurls",
-						"app/urls.py"
-					],
-					[
-						"appyrls",
-						"static/vendors/bower_components/material-design-iconic-font/svg/2.1/01 - web application/refresh-sync-alert.svg"
-					],
-					[
-						"apviews",
-						"app/views.py"
-					],
-					[
-						"interviews",
-						"internal/views.py"
-					],
-					[
-						"app.",
-						"static/js/app.js"
-					],
-					[
-						"combase",
-						"templates/common/base.html"
-					],
-					[
-						"inurls",
-						"internal/urls.py"
-					],
-					[
-						"intervies",
-						"internal/views.py"
-					],
-					[
-						"app",
-						"static/js/app.js"
-					],
-					[
-						"appviws",
-						"app/views.py"
-					],
-					[
-						"local",
-						"EMS/local_settings.py"
-					],
-					[
-						"edi",
-						"templates/app/edit_employee.html"
-					],
-					[
-						"intenindex",
-						"templates/internal/index_test.html"
-					],
-					[
-						"appresg",
-						"templates/app/register.html"
-					],
-					[
-						"jsapp.",
-						"static/js/app.js"
-					],
-					[
-						"appviews",
-						"app/views.py"
-					],
-					[
-						"registe",
-						"templates/app/register.html"
-					],
-					[
-						"applogin",
-						"templates/app/login.html"
-					],
-					[
-						"appbase",
-						"templates/app/base.html"
-					],
-					[
-						"commonbase",
-						"templates/common/base.html"
-					],
-					[
-						"appvi",
-						"app/views.py"
-					],
-					[
-						"apurls",
-						"app/urls.py"
-					],
-					[
-						"appmdoels",
-						"app/models.py"
-					],
-					[
-						"appur",
-						"app/urls.py"
-					],
-					[
-						"appvie",
-						"app/views.py"
-					],
-					[
-						"temcombas",
-						"templates/common/base.html"
-					],
-					[
-						"sett",
-						"EMS/settings.py"
-					],
-					[
-						"models.p",
-						"app/models.py"
-					],
-					[
-						"temappadd",
-						"templates/app/add_test.html"
-					],
-					[
-						"urls",
-						"internal/urls.py"
-					],
-					[
-						"mdels",
-						"app/models.py"
-					],
-					[
-						"inetrnallogin",
-						"templates/internal/login.html"
-					],
-					[
-						"internviews",
-						"internal/views.py"
-					],
-					[
-						"templindex.html",
-						"app/templates/index_test.html"
-					],
-					[
-						"views.",
-						"app/views.py"
-					],
-					[
-						"index",
-						"static/vendors/bower_components/simpleWeather/index.html"
-					],
-					[
-						"settin",
-						"EMS/settings.py"
-					],
-					[
-						"regihtml",
-						"app/templates/register_test.html"
-					],
-					[
-						"regis",
-						"app/templates/register.html"
-					],
-					[
-						"login",
-						"app/templates/login_test.html"
-					],
-					[
-						"loginhtml",
-						"app/templates/login.html"
-					],
-					[
-						"login.",
-						"app/templates/login.html"
-					],
-					[
-						"set",
-						"EMS/settings.py"
-					],
-					[
-						"req",
-						"requirements.txt"
-					],
-					[
-						"ur.s",
-						"EMS/urls.py"
-					],
-					[
-						"setting",
-						"EMS/settings.py"
-					],
-					[
-						"re",
-						"requirements.txt"
+						"fcpale",
+						"FCP/ALIEN.cpp"
 					],
 					[
 						"ccm17sw.cpp",
@@ -4283,8 +4136,20 @@
 						"myapp/templates/add.html"
 					],
 					[
+						"set",
+						"smahc/settings.py"
+					],
+					[
 						"view",
 						"myapp/views.py"
+					],
+					[
+						"urls",
+						"myapp/urls.py"
+					],
+					[
+						"index",
+						"myapp/templates/index.html"
 					],
 					[
 						"model",
@@ -4341,6 +4206,10 @@
 					[
 						"lecscemodel",
 						"lectureSchedule/models.py"
+					],
+					[
+						"models",
+						"workallocation/models.py"
 					],
 					[
 						"lecschedurls",
@@ -4411,6 +4280,10 @@
 						"static/dist/js/myJs.js"
 					],
 					[
+						"settin",
+						"vmcPortal/settings.py"
+					],
+					[
 						"calen",
 						"vmcPortal/calender.py"
 					],
@@ -4449,6 +4322,198 @@
 					[
 						"cale",
 						"vmcPortal/calender.py"
+					],
+					[
+						"tasks",
+						"teacher/tasks.py"
+					],
+					[
+						"taska",
+						"templates/workAllocation/addwork.html"
+					],
+					[
+						"studentmodels",
+						"students/models.py"
+					],
+					[
+						"schedmodel",
+						"lectureSchedule/models.py"
+					],
+					[
+						"sched2.",
+						"templates/lectureSchedule/schedules2.html"
+					],
+					[
+						"sche",
+						"templates/lectureSchedule/schedules.html"
+					],
+					[
+						"shced",
+						"static/dist/js/schedule.js"
+					],
+					[
+						"workrep",
+						"templates/vmcPortal/adminHomeWorkReport.html"
+					],
+					[
+						"teachmodel",
+						"teacher/models.py"
+					],
+					[
+						"timestamp",
+						"templates/vmcPortal/userTimeStampsFromTo.html"
+					],
+					[
+						"all",
+						"templates/vmcPortal/allLectures.html"
+					],
+					[
+						"month",
+						"templates/vmcPortal/monthlyUserStatus.html"
+					],
+					[
+						"gazhtm",
+						"templates/vmcPortal/gazettedHolidays.html"
+					],
+					[
+						"vmcview",
+						"vmcPortal/views.py"
+					],
+					[
+						"my",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"vmcviews",
+						"vmcPortal/views.py"
+					],
+					[
+						"dail",
+						"templates/vmcPortal/dailyUserStatus.html"
+					],
+					[
+						"mys",
+						"static/dist/js/myJs.js"
+					],
+					[
+						"leavepointsrecordsmonthyear",
+						"templates/vmcPortal/leavePointsRecordsMonthYear.html"
+					],
+					[
+						"bae",
+						"templates/base.html"
+					],
+					[
+						"admin",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"adminhomete",
+						"templates/vmcPortal/adminHomeTeams.html"
+					],
+					[
+						"teamview",
+						"team/views.py"
+					],
+					[
+						"bas",
+						"templates/base.html"
+					],
+					[
+						"teachmod",
+						"teacher/models.py"
+					],
+					[
+						"lecmodesl",
+						"lectureSchedule/models.py"
+					],
+					[
+						"recent",
+						"templates/lectureSchedule/groupRecentLecture.html"
+					],
+					[
+						"lecsceurl",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"vi",
+						"vmcPortal/views.py"
+					],
+					[
+						"slotsta",
+						"templates/lectureSchedule/slotStatus.html"
+					],
+					[
+						"lecurls",
+						"lectureSchedule/urls.py"
+					],
+					[
+						"lecvie",
+						"lectureSchedule/views.py"
+					],
+					[
+						"teacmodel",
+						"teacher/models.py"
+					],
+					[
+						"tas",
+						"teacher/tasks.py"
+					],
+					[
+						"req",
+						"requirements.txt"
+					],
+					[
+						"task",
+						"teacher/tasks.py"
+					],
+					[
+						"work/mo",
+						"workallocation/models.py"
+					],
+					[
+						"sett",
+						"vmcPortal/settings.py"
+					],
+					[
+						"teacehr",
+						"templates/teacher/teacher.html"
+					],
+					[
+						"views",
+						"vmcPortal/views.py"
+					],
+					[
+						"setting",
+						"vmcPortal/settings.py"
+					],
+					[
+						"mode",
+						"team/models.py"
+					],
+					[
+						"teacher/model",
+						"teacher/models.py"
+					],
+					[
+						"se",
+						"smahc/settings.py"
+					],
+					[
+						"inve",
+						"myapp/templates/inventory.html"
+					],
+					[
+						"inde",
+						"myapp/templates/index.html"
+					],
+					[
+						"mdoe",
+						"myapp/models.py"
+					],
+					[
+						"style",
+						"staticfiles/myapp/css/style.css"
 					]
 				],
 				"width": 0.0
@@ -4456,32 +4521,28 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "cp",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"cp",
-						"~/.sublime-projects/CP.sublime-project"
+						"ems",
+						"~/.sublime-projects/EMS.sublime-project"
+					],
+					[
+						"das",
+						"~/.sublime-projects/DSA.sublime-project"
 					],
 					[
 						"",
 						"~/.sublime-projects/DSA.sublime-project"
-					],
-					[
-						"dsa",
-						"~/.sublime-projects/DSA.sublime-project"
-					],
-					[
-						"bte",
-						"~/.sublime-projects/bteproject.sublime-project"
 					]
 				],
 				"width": 380.0
 			},
 			"select_symbol":
 			{
-				"height": 45.0,
-				"last_filter": "",
+				"height": 339.0,
+				"last_filter": "merge",
 				"selected_items":
 				[
 					[
@@ -4525,13 +4586,13 @@
 						"maxxor"
 					]
 				],
-				"width": 674.0
+				"width": 374.0
 			},
 			"selected_group": 0,
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
@@ -4541,15 +4602,15 @@
 			{
 			},
 			"window_id": 279,
-			"workspace_name": ""
+			"workspace_name": "/home/nikhil/.sublime-projects/CP.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/home/nikhil/.sublime-projects/EMS.sublime-workspace",
 			"/home/nikhil/.sublime-projects/CP.sublime-workspace",
+			"/home/nikhil/.sublime-projects/EMS.sublime-workspace",
 			"/home/nikhil/.sublime-projects/DSA.sublime-workspace",
 			"/home/nikhil/.sublime-projects/acmgtga.sublime-workspace",
 			"/home/nikhil/.sublime-projects/bteproject.sublime-workspace",
