@@ -8,11 +8,11 @@
 	[
 		{
 			"name": "IO",
-			"shell_cmd": "\"${file_path}/${file_base_name}\" <in >out 2>&1"
+			"shell_cmd": "timeout 5s \"${file_path}/${file_base_name}\" <in >out 2>&1"
 		},
 		{
 			"name": "Run",
-			"shell_cmd": "\"${file_path}/${file_base_name}\""
+			"shell_cmd": "timeout 5s \"${file_path}/${file_base_name}\""
 		}
 	]
 }
